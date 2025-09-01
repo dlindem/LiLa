@@ -1,0 +1,855 @@
+{
+  "http://www.wikidata.org/entity/L255434-F310": [
+    {
+      "http://www.wikidata.org/entity/L255434-F310": {
+        "lila_row": "124620",
+        "form_rep": "adfluxi",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "1",
+          "sg"
+        ],
+        "wd_tags": [
+          "ptcp",
+          "prf",
+          "m",
+          "pass",
+          "sg",
+          "gen"
+        ],
+        "wd_not_lila": [
+          "ptcp",
+          "m",
+          "pass",
+          "gen"
+        ],
+        "lila_not_wd": [
+          "act",
+          "ind",
+          "1"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L255434-F311": [
+    {
+      "http://www.wikidata.org/entity/L255434-F311": {
+        "lila_row": "124620",
+        "form_rep": "adfluxi",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "1",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "gen",
+          "n",
+          "prf",
+          "ptcp"
+        ],
+        "wd_not_lila": [
+          "pass",
+          "gen",
+          "n",
+          "ptcp"
+        ],
+        "lila_not_wd": [
+          "act",
+          "ind",
+          "1"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L256652-F310": [
+    {
+      "http://www.wikidata.org/entity/L256652-F310": {
+        "lila_row": "124758",
+        "form_rep": "affluxi",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "1",
+          "sg"
+        ],
+        "wd_tags": [
+          "ptcp",
+          "prf",
+          "m",
+          "gen",
+          "pass",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "ptcp",
+          "m",
+          "gen",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "act",
+          "ind",
+          "1"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L256652-F311": [
+    {
+      "http://www.wikidata.org/entity/L256652-F311": {
+        "lila_row": "124758",
+        "form_rep": "affluxi",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "1",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "gen",
+          "n",
+          "prf",
+          "ptcp"
+        ],
+        "wd_not_lila": [
+          "pass",
+          "gen",
+          "n",
+          "ptcp"
+        ],
+        "lila_not_wd": [
+          "act",
+          "ind",
+          "1"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L255480-F361": [
+    {
+      "http://www.wikidata.org/entity/L255480-F361": {
+        "lila_row": "137148",
+        "form_rep": "aggressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L255480-F361": {
+        "lila_row": "137268",
+        "form_rep": "aggressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L256716-F258": [
+    {
+      "http://www.wikidata.org/entity/L256716-F258": {
+        "lila_row": "137148",
+        "form_rep": "aggressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L256716-F258": {
+        "lila_row": "137268",
+        "form_rep": "aggressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L264007-F101": [
+    {
+      "http://www.wikidata.org/entity/L264007-F101": {
+        "lila_row": "397114",
+        "form_rep": "circumfixi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L264007-F101": {
+        "lila_row": "397208",
+        "form_rep": "circumfixi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L264114-F101": [
+    {
+      "http://www.wikidata.org/entity/L264114-F101": {
+        "lila_row": "410362",
+        "form_rep": "circumplexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L264114-F101": {
+        "lila_row": "410481",
+        "form_rep": "circumplexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L264406-F100": [
+    {
+      "http://www.wikidata.org/entity/L264406-F100": {
+        "lila_row": "433707",
+        "form_rep": "clausi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L264406-F100": {
+        "lila_row": "433735",
+        "form_rep": "clausi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L266231-F101": [
+    {
+      "http://www.wikidata.org/entity/L266231-F101": {
+        "lila_row": "566751",
+        "form_rep": "conexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L266231-F101": {
+        "lila_row": "566971",
+        "form_rep": "conexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L266748-F101": [
+    {
+      "http://www.wikidata.org/entity/L266748-F101": {
+        "lila_row": "567039",
+        "form_rep": "connexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L266748-F101": {
+        "lila_row": "567176",
+        "form_rep": "connexi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L271459-F197": [
+    {
+      "http://www.wikidata.org/entity/L271459-F197": {
+        "lila_row": "814486",
+        "form_rep": "derosi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L271459-F197": {
+        "lila_row": "814703",
+        "form_rep": "derosi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "act",
+          "1",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L271492-F66": [
+    {
+      "http://www.wikidata.org/entity/L271492-F66": {
+        "lila_row": "821394",
+        "form_rep": "desculperis",
+        "lila_tags": [
+          "prs",
+          "pass",
+          "sbjv",
+          "2",
+          "sg"
+        ],
+        "wd_tags": [
+          "sg",
+          "ind",
+          "prf",
+          "fut",
+          "act",
+          "2"
+        ],
+        "wd_not_lila": [
+          "ind",
+          "prf",
+          "fut",
+          "act"
+        ],
+        "lila_not_wd": [
+          "prs",
+          "pass",
+          "sbjv"
+        ]
+      },
+      "deviation": 7
+    }
+  ],
+  "http://www.wikidata.org/entity/L281127-F21": [
+    {
+      "http://www.wikidata.org/entity/L281127-F21": {
+        "lila_row": "1938132",
+        "form_rep": "perpressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "act",
+          "1",
+          "prf",
+          "ind",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L281127-F21": {
+        "lila_row": "1938275",
+        "form_rep": "perpressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "act",
+          "1",
+          "prf",
+          "ind",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L281127-F21": {
+        "lila_row": "1938505",
+        "form_rep": "perpressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "act",
+          "1",
+          "prf",
+          "ind",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "m"
+        ]
+      },
+      "deviation": 7
+    },
+    {
+      "http://www.wikidata.org/entity/L281127-F21": {
+        "lila_row": "1938599",
+        "form_rep": "perpressi",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "gen",
+          "n",
+          "sg"
+        ],
+        "wd_tags": [
+          "act",
+          "1",
+          "prf",
+          "ind",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "act",
+          "1",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "pass",
+          "ptcp",
+          "gen",
+          "n"
+        ]
+      },
+      "deviation": 7
+    }
+  ]
+}

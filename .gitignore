@@ -1,3 +1,7 @@
-
+.idea/*
 enhanced_forms.csv
 wikidata_tLOkeO.csv
+intersection_forms_gramm_comparison.json
+intersection_forms_missing_on_wikidata.json
+wikidata_forms.json
+intersection_comparison_results_deviation_0.json

@@ -1,0 +1,6068 @@
+{
+  "http://www.wikidata.org/entity/L254608-F507": [
+    {
+      "http://www.wikidata.org/entity/L254608-F507": {
+        "lila_row": "4387",
+        "form_rep": "abiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "pass",
+          "prs",
+          "imp",
+          "2",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "pass",
+          "prs",
+          "imp",
+          "2",
+          "sg"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38269-F62": [
+    {
+      "http://www.wikidata.org/entity/L38269-F62": {
+        "lila_row": "64489",
+        "form_rep": "adiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255508-F186": [
+    {
+      "http://www.wikidata.org/entity/L255508-F186": {
+        "lila_row": "68146",
+        "form_rep": "adhortate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255683-F130": [
+    {
+      "http://www.wikidata.org/entity/L255683-F130": {
+        "lila_row": "81525",
+        "form_rep": "admolite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255767-F186": [
+    {
+      "http://www.wikidata.org/entity/L255767-F186": {
+        "lila_row": "95282",
+        "form_rep": "adopinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255751-F186": [
+    {
+      "http://www.wikidata.org/entity/L255751-F186": {
+        "lila_row": "105326",
+        "form_rep": "adolescentiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L256170-F186": [
+    {
+      "http://www.wikidata.org/entity/L256170-F186": {
+        "lila_row": "105748",
+        "form_rep": "adulescentiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255436-F186": [
+    {
+      "http://www.wikidata.org/entity/L255436-F186": {
+        "lila_row": "125342",
+        "form_rep": "adfate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L256654-F186": [
+    {
+      "http://www.wikidata.org/entity/L256654-F186": {
+        "lila_row": "125393",
+        "form_rep": "affate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255629-F186": [
+    {
+      "http://www.wikidata.org/entity/L255629-F186": {
+        "lila_row": "160085",
+        "form_rep": "adluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L257101-F186": [
+    {
+      "http://www.wikidata.org/entity/L257101-F186": {
+        "lila_row": "160233",
+        "form_rep": "alluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L257991-F60": [
+    {
+      "http://www.wikidata.org/entity/L257991-F60": {
+        "lila_row": "165210",
+        "form_rep": "anteiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "pass",
+          "2",
+          "imp",
+          "prs",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "pass",
+          "2",
+          "imp",
+          "prs",
+          "sg"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L257208-F57": [
+    {
+      "http://www.wikidata.org/entity/L257208-F57": {
+        "lila_row": "165751",
+        "form_rep": "alucinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275045-F57": [
+    {
+      "http://www.wikidata.org/entity/L275045-F57": {
+        "lila_row": "166219",
+        "form_rep": "halucinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L257519-F33": [
+    {
+      "http://www.wikidata.org/entity/L257519-F33": {
+        "lila_row": "173840",
+        "form_rep": "amolite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L257601-F57": [
+    {
+      "http://www.wikidata.org/entity/L257601-F57": {
+        "lila_row": "178012",
+        "form_rep": "ampullate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255871-F186": [
+    {
+      "http://www.wikidata.org/entity/L255871-F186": {
+        "lila_row": "214309",
+        "form_rep": "adprecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L258462-F57": [
+    {
+      "http://www.wikidata.org/entity/L258462-F57": {
+        "lila_row": "214543",
+        "form_rep": "apprecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L258672-F57": [
+    {
+      "http://www.wikidata.org/entity/L258672-F57": {
+        "lila_row": "224380",
+        "form_rep": "aquate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L258950-F57": [
+    {
+      "http://www.wikidata.org/entity/L258950-F57": {
+        "lila_row": "229334",
+        "form_rep": "argumentate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L259299-F57": [
+    {
+      "http://www.wikidata.org/entity/L259299-F57": {
+        "lila_row": "243806",
+        "form_rep": "aspernate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255958-F186": [
+    {
+      "http://www.wikidata.org/entity/L255958-F186": {
+        "lila_row": "247062",
+        "form_rep": "adsectate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L259336-F57": [
+    {
+      "http://www.wikidata.org/entity/L259336-F57": {
+        "lila_row": "247341",
+        "form_rep": "assectate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L255975-F186": [
+    {
+      "http://www.wikidata.org/entity/L255975-F186": {
+        "lila_row": "248965",
+        "form_rep": "adsentate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L259356-F57": [
+    {
+      "http://www.wikidata.org/entity/L259356-F57": {
+        "lila_row": "249080",
+        "form_rep": "assentate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L256118-F186": [
+    {
+      "http://www.wikidata.org/entity/L256118-F186": {
+        "lila_row": "282896",
+        "form_rep": "adtestate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L259639-F57": [
+    {
+      "http://www.wikidata.org/entity/L259639-F57": {
+        "lila_row": "283162",
+        "form_rep": "attestate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L262895-F57": [
+    {
+      "http://www.wikidata.org/entity/L262895-F57": {
+        "lila_row": "372936",
+        "form_rep": "cauponate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38534-F62": [
+    {
+      "http://www.wikidata.org/entity/L38534-F62": {
+        "lila_row": "395970",
+        "form_rep": "circumiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pass",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pass",
+          "sg"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38535-F60": [
+    {
+      "http://www.wikidata.org/entity/L38535-F60": {
+        "lila_row": "396229",
+        "form_rep": "circuiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L264724-F57": [
+    {
+      "http://www.wikidata.org/entity/L264724-F57": {
+        "lila_row": "448363",
+        "form_rep": "cocionate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38266-F62": [
+    {
+      "http://www.wikidata.org/entity/L38266-F62": {
+        "lila_row": "449244",
+        "form_rep": "coiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265108-F57": [
+    {
+      "http://www.wikidata.org/entity/L265108-F57": {
+        "lila_row": "477182",
+        "form_rep": "colluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266692-F57": [
+    {
+      "http://www.wikidata.org/entity/L266692-F57": {
+        "lila_row": "477485",
+        "form_rep": "conluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265205-F57": [
+    {
+      "http://www.wikidata.org/entity/L265205-F57": {
+        "lila_row": "482038",
+        "form_rep": "columbate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265299-F57": [
+    {
+      "http://www.wikidata.org/entity/L265299-F57": {
+        "lila_row": "485088",
+        "form_rep": "comissate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265294-F57": [
+    {
+      "http://www.wikidata.org/entity/L265294-F57": {
+        "lila_row": "485358",
+        "form_rep": "comisate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "prs",
+          "pl",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "2",
+          "prs",
+          "pl",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265400-F33": [
+    {
+      "http://www.wikidata.org/entity/L265400-F33": {
+        "lila_row": "491645",
+        "form_rep": "commentite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265412-F57": [
+    {
+      "http://www.wikidata.org/entity/L265412-F57": {
+        "lila_row": "492885",
+        "form_rep": "commercate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266720-F57": [
+    {
+      "http://www.wikidata.org/entity/L266720-F57": {
+        "lila_row": "493111",
+        "form_rep": "conmercate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265653-F60": [
+    {
+      "http://www.wikidata.org/entity/L265653-F60": {
+        "lila_row": "518084",
+        "form_rep": "comperiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265769-F57": [
+    {
+      "http://www.wikidata.org/entity/L265769-F57": {
+        "lila_row": "532324",
+        "form_rep": "comprecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266907-F57": [
+    {
+      "http://www.wikidata.org/entity/L266907-F57": {
+        "lila_row": "532545",
+        "form_rep": "conprecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266019-F57": [
+    {
+      "http://www.wikidata.org/entity/L266019-F57": {
+        "lila_row": "551617",
+        "form_rep": "concomitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266059-F57": [
+    {
+      "http://www.wikidata.org/entity/L266059-F57": {
+        "lila_row": "555226",
+        "form_rep": "concriminate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266240-F57": [
+    {
+      "http://www.wikidata.org/entity/L266240-F57": {
+        "lila_row": "567566",
+        "form_rep": "confabricate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266245-F57": [
+    {
+      "http://www.wikidata.org/entity/L266245-F57": {
+        "lila_row": "567806",
+        "form_rep": "confabulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266497-F57": [
+    {
+      "http://www.wikidata.org/entity/L266497-F57": {
+        "lila_row": "588838",
+        "form_rep": "congratulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L266768-F57": [
+    {
+      "http://www.wikidata.org/entity/L266768-F57": {
+        "lila_row": "594860",
+        "form_rep": "conate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267062-F57": [
+    {
+      "http://www.wikidata.org/entity/L267062-F57": {
+        "lila_row": "601983",
+        "form_rep": "conscreate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267088-F57": [
+    {
+      "http://www.wikidata.org/entity/L267088-F57": {
+        "lila_row": "603909",
+        "form_rep": "consectate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267125-F57": [
+    {
+      "http://www.wikidata.org/entity/L267125-F57": {
+        "lila_row": "606296",
+        "form_rep": "consermonate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267168-F57": [
+    {
+      "http://www.wikidata.org/entity/L267168-F57": {
+        "lila_row": "608404",
+        "form_rep": "consiliate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267408-F57": [
+    {
+      "http://www.wikidata.org/entity/L267408-F57": {
+        "lila_row": "626714",
+        "form_rep": "contechnate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267487-F57": [
+    {
+      "http://www.wikidata.org/entity/L267487-F57": {
+        "lila_row": "631993",
+        "form_rep": "contestate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267520-F57": [
+    {
+      "http://www.wikidata.org/entity/L267520-F57": {
+        "lila_row": "634560",
+        "form_rep": "continate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L265968-F57": [
+    {
+      "http://www.wikidata.org/entity/L265968-F57": {
+        "lila_row": "635125",
+        "form_rep": "concionate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267542-F57": [
+    {
+      "http://www.wikidata.org/entity/L267542-F57": {
+        "lila_row": "635239",
+        "form_rep": "contionate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267661-F67": [
+    {
+      "http://www.wikidata.org/entity/L267661-F67": {
+        "lila_row": "642887",
+        "form_rep": "contuite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267673-F57": [
+    {
+      "http://www.wikidata.org/entity/L267673-F57": {
+        "lila_row": "645147",
+        "form_rep": "contutate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267952-F57": [
+    {
+      "http://www.wikidata.org/entity/L267952-F57": {
+        "lila_row": "660495",
+        "form_rep": "copiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L268096-F57": [
+    {
+      "http://www.wikidata.org/entity/L268096-F57": {
+        "lila_row": "662959",
+        "form_rep": "cornicate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267015-F57": [
+    {
+      "http://www.wikidata.org/entity/L267015-F57": {
+        "lila_row": "674094",
+        "form_rep": "conruspate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L268351-F57": [
+    {
+      "http://www.wikidata.org/entity/L268351-F57": {
+        "lila_row": "674454",
+        "form_rep": "corruspate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "pl",
+          "prs",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "2",
+          "pl",
+          "prs",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267549-F1": [
+    {
+      "http://www.wikidata.org/entity/L267549-F1": {
+        "lila_row": "690918",
+        "form_rep": "contate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L267550-F57": [
+    {
+      "http://www.wikidata.org/entity/L267550-F57": {
+        "lila_row": "690918",
+        "form_rep": "contate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L270879-F57": [
+    {
+      "http://www.wikidata.org/entity/L270879-F57": {
+        "lila_row": "753809",
+        "form_rep": "degrassate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L270906-F57": [
+    {
+      "http://www.wikidata.org/entity/L270906-F57": {
+        "lila_row": "757523",
+        "form_rep": "dehortate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271133-F57": [
+    {
+      "http://www.wikidata.org/entity/L271133-F57": {
+        "lila_row": "778594",
+        "form_rep": "demirate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271160-F57": [
+    {
+      "http://www.wikidata.org/entity/L271160-F57": {
+        "lila_row": "781812",
+        "form_rep": "demorate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271271-F57": [
+    {
+      "http://www.wikidata.org/entity/L271271-F57": {
+        "lila_row": "792249",
+        "form_rep": "deosculate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271305-F60": [
+    {
+      "http://www.wikidata.org/entity/L271305-F60": {
+        "lila_row": "796748",
+        "form_rep": "deperiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "pass",
+          "sg",
+          "2",
+          "prs",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "pass",
+          "sg",
+          "2",
+          "prs",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271492-F46": [
+    {
+      "http://www.wikidata.org/entity/L271492-F46": {
+        "lila_row": "821379",
+        "form_rep": "desculpere",
+        "lila_tags": [
+          "prs",
+          "pass",
+          "sbjv",
+          "2",
+          "sg"
+        ],
+        "wd_tags": [
+          "act",
+          "pl",
+          "3",
+          "prf",
+          "ind"
+        ],
+        "wd_not_lila": [
+          "act",
+          "pl",
+          "3",
+          "prf",
+          "ind"
+        ],
+        "lila_not_wd": [
+          "prs",
+          "pass",
+          "sbjv",
+          "2",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271898-F57": [
+    {
+      "http://www.wikidata.org/entity/L271898-F57": {
+        "lila_row": "868427",
+        "form_rep": "digladiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272105-F60": [
+    {
+      "http://www.wikidata.org/entity/L272105-F60": {
+        "lila_row": "902013",
+        "form_rep": "disperiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L271578-F57": [
+    {
+      "http://www.wikidata.org/entity/L271578-F57": {
+        "lila_row": "939942",
+        "form_rep": "despicate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272503-F33": [
+    {
+      "http://www.wikidata.org/entity/L272503-F33": {
+        "lila_row": "945003",
+        "form_rep": "eblandite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272772-F57": [
+    {
+      "http://www.wikidata.org/entity/L272772-F57": {
+        "lila_row": "995917",
+        "form_rep": "eluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272805-F33": [
+    {
+      "http://www.wikidata.org/entity/L272805-F33": {
+        "lila_row": "1003990",
+        "form_rep": "ementite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "pl",
+          "2",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "pl",
+          "2",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272806-F57": [
+    {
+      "http://www.wikidata.org/entity/L272806-F57": {
+        "lila_row": "1004693",
+        "form_rep": "emercate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272823-F57": [
+    {
+      "http://www.wikidata.org/entity/L272823-F57": {
+        "lila_row": "1007686",
+        "form_rep": "emirate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272835-F33": [
+    {
+      "http://www.wikidata.org/entity/L272835-F33": {
+        "lila_row": "1009484",
+        "form_rep": "emolite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272935-F60": [
+    {
+      "http://www.wikidata.org/entity/L272935-F60": {
+        "lila_row": "1024288",
+        "form_rep": "iere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38532-F63": [
+    {
+      "http://www.wikidata.org/entity/L38532-F63": {
+        "lila_row": "1089168",
+        "form_rep": "exiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L273540-F57": [
+    {
+      "http://www.wikidata.org/entity/L273540-F57": {
+        "lila_row": "1114815",
+        "form_rep": "expiscate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274255-F57": [
+    {
+      "http://www.wikidata.org/entity/L274255-F57": {
+        "lila_row": "1215087",
+        "form_rep": "fate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274431-F57": [
+    {
+      "http://www.wikidata.org/entity/L274431-F57": {
+        "lila_row": "1229024",
+        "form_rep": "frumentate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "imp",
+          "2",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274436-F67": [
+    {
+      "http://www.wikidata.org/entity/L274436-F67": {
+        "lila_row": "1230195",
+        "form_rep": "fruite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274744-F57": [
+    {
+      "http://www.wikidata.org/entity/L274744-F57": {
+        "lila_row": "1255819",
+        "form_rep": "gesticulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274801-F57": [
+    {
+      "http://www.wikidata.org/entity/L274801-F57": {
+        "lila_row": "1261289",
+        "form_rep": "gloriate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "pl",
+          "2",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "pl",
+          "2",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274849-F57": [
+    {
+      "http://www.wikidata.org/entity/L274849-F57": {
+        "lila_row": "1266680",
+        "form_rep": "graecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274888-F57": [
+    {
+      "http://www.wikidata.org/entity/L274888-F57": {
+        "lila_row": "1267837",
+        "form_rep": "grassate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274898-F57": [
+    {
+      "http://www.wikidata.org/entity/L274898-F57": {
+        "lila_row": "1268356",
+        "form_rep": "gratate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L274905-F57": [
+    {
+      "http://www.wikidata.org/entity/L274905-F57": {
+        "lila_row": "1268712",
+        "form_rep": "gratulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275071-F57": [
+    {
+      "http://www.wikidata.org/entity/L275071-F57": {
+        "lila_row": "1276189",
+        "form_rep": "hariolate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "pl",
+          "prs",
+          "imp"
+        ],
+        "wd_not_lila": [
+          "2",
+          "pl",
+          "prs",
+          "imp"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L272757-F57": [
+    {
+      "http://www.wikidata.org/entity/L272757-F57": {
+        "lila_row": "1278833",
+        "form_rep": "elluate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275144-F57": [
+    {
+      "http://www.wikidata.org/entity/L275144-F57": {
+        "lila_row": "1278988",
+        "form_rep": "helluate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275146-F57": [
+    {
+      "http://www.wikidata.org/entity/L275146-F57": {
+        "lila_row": "1279343",
+        "form_rep": "heluate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275371-F57": [
+    {
+      "http://www.wikidata.org/entity/L275371-F57": {
+        "lila_row": "1288307",
+        "form_rep": "hortate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275620-F57": [
+    {
+      "http://www.wikidata.org/entity/L275620-F57": {
+        "lila_row": "1319285",
+        "form_rep": "imitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L275776-F57": [
+    {
+      "http://www.wikidata.org/entity/L275776-F57": {
+        "lila_row": "1362760",
+        "form_rep": "imprecate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38542-F63": [
+    {
+      "http://www.wikidata.org/entity/L38542-F63": {
+        "lila_row": "1413958",
+        "form_rep": "iniere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L276280-F57": [
+    {
+      "http://www.wikidata.org/entity/L276280-F57": {
+        "lila_row": "1424030",
+        "form_rep": "inficiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L276303-F57": [
+    {
+      "http://www.wikidata.org/entity/L276303-F57": {
+        "lila_row": "1424252",
+        "form_rep": "infitiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L276887-F60": [
+    {
+      "http://www.wikidata.org/entity/L276887-F60": {
+        "lila_row": "1493235",
+        "form_rep": "interiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pass",
+          "sg",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pass",
+          "sg",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L276894-F57": [
+    {
+      "http://www.wikidata.org/entity/L276894-F57": {
+        "lila_row": "1495076",
+        "form_rep": "interfate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L276920-F57": [
+    {
+      "http://www.wikidata.org/entity/L276920-F57": {
+        "lila_row": "1504428",
+        "form_rep": "interminate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L277021-F43": [
+    {
+      "http://www.wikidata.org/entity/L277021-F43": {
+        "lila_row": "1531537",
+        "form_rep": "intuite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L277007-F60": [
+    {
+      "http://www.wikidata.org/entity/L277007-F60": {
+        "lila_row": "1575082",
+        "form_rep": "introiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L277697-F57": [
+    {
+      "http://www.wikidata.org/entity/L277697-F57": {
+        "lila_row": "1599790",
+        "form_rep": "lenocinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L277778-F57": [
+    {
+      "http://www.wikidata.org/entity/L277778-F57": {
+        "lila_row": "1603313",
+        "form_rep": "libidinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L277835-F57": [
+    {
+      "http://www.wikidata.org/entity/L277835-F57": {
+        "lila_row": "1605341",
+        "form_rep": "lignate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L278143-F57": [
+    {
+      "http://www.wikidata.org/entity/L278143-F57": {
+        "lila_row": "1633817",
+        "form_rep": "machinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L278517-F57": [
+    {
+      "http://www.wikidata.org/entity/L278517-F57": {
+        "lila_row": "1651122",
+        "form_rep": "meditate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L278849-F57": [
+    {
+      "http://www.wikidata.org/entity/L278849-F57": {
+        "lila_row": "1671757",
+        "form_rep": "moechate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L279321-F60": [
+    {
+      "http://www.wikidata.org/entity/L279321-F60": {
+        "lila_row": "1705125",
+        "form_rep": "nequiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L279549-F57": [
+    {
+      "http://www.wikidata.org/entity/L279549-F57": {
+        "lila_row": "1717975",
+        "form_rep": "nugate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L38546-F63": [
+    {
+      "http://www.wikidata.org/entity/L38546-F63": {
+        "lila_row": "1730964",
+        "form_rep": "obiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    },
+    {
+      "http://www.wikidata.org/entity/L38546-F63": {
+        "lila_row": "1731306",
+        "form_rep": "obiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L279698-F57": [
+    {
+      "http://www.wikidata.org/entity/L279698-F57": {
+        "lila_row": "1742568",
+        "form_rep": "obluctate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L279699-F33": [
+    {
+      "http://www.wikidata.org/entity/L279699-F33": {
+        "lila_row": "1744020",
+        "form_rep": "obmolite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L279820-F57": [
+    {
+      "http://www.wikidata.org/entity/L279820-F57": {
+        "lila_row": "1782021",
+        "form_rep": "obtestate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280063-F33": [
+    {
+      "http://www.wikidata.org/entity/L280063-F33": {
+        "lila_row": "1830964",
+        "form_rep": "opperite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L259900-F57": [
+    {
+      "http://www.wikidata.org/entity/L259900-F57": {
+        "lila_row": "1842367",
+        "form_rep": "ausculate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280238-F57": [
+    {
+      "http://www.wikidata.org/entity/L280238-F57": {
+        "lila_row": "1842531",
+        "form_rep": "osculate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280270-F57": [
+    {
+      "http://www.wikidata.org/entity/L280270-F57": {
+        "lila_row": "1843875",
+        "form_rep": "otiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280288-F57": [
+    {
+      "http://www.wikidata.org/entity/L280288-F57": {
+        "lila_row": "1846557",
+        "form_rep": "pabulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280619-F57": [
+    {
+      "http://www.wikidata.org/entity/L280619-F57": {
+        "lila_row": "1863991",
+        "form_rep": "patrocinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280865-F57": [
+    {
+      "http://www.wikidata.org/entity/L280865-F57": {
+        "lila_row": "1880980",
+        "form_rep": "perbacchate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280936-F57": [
+    {
+      "http://www.wikidata.org/entity/L280936-F57": {
+        "lila_row": "1900454",
+        "form_rep": "peregrinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280945-F60": [
+    {
+      "http://www.wikidata.org/entity/L280945-F60": {
+        "lila_row": "1901813",
+        "form_rep": "periere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L280996-F57": [
+    {
+      "http://www.wikidata.org/entity/L280996-F57": {
+        "lila_row": "1914063",
+        "form_rep": "periclitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281125-F57": [
+    {
+      "http://www.wikidata.org/entity/L281125-F57": {
+        "lila_row": "1937271",
+        "form_rep": "perpopulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281154-F57": [
+    {
+      "http://www.wikidata.org/entity/L281154-F57": {
+        "lila_row": "1945185",
+        "form_rep": "persectate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281191-F121": [
+    {
+      "http://www.wikidata.org/entity/L281191-F121": {
+        "lila_row": "1962223",
+        "form_rep": "pertransiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281323-F57": [
+    {
+      "http://www.wikidata.org/entity/L281323-F57": {
+        "lila_row": "1974860",
+        "form_rep": "philosophate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281470-F57": [
+    {
+      "http://www.wikidata.org/entity/L281470-F57": {
+        "lila_row": "1984060",
+        "form_rep": "piscate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281642-F57": [
+    {
+      "http://www.wikidata.org/entity/L281642-F57": {
+        "lila_row": "1994678",
+        "form_rep": "pollicitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281849-F33": [
+    {
+      "http://www.wikidata.org/entity/L281849-F33": {
+        "lila_row": "2005853",
+        "form_rep": "potite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281950-F60": [
+    {
+      "http://www.wikidata.org/entity/L281950-F60": {
+        "lila_row": "2024722",
+        "form_rep": "praeiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pass",
+          "sg",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pass",
+          "sg",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L281967-F57": [
+    {
+      "http://www.wikidata.org/entity/L281967-F57": {
+        "lila_row": "2028546",
+        "form_rep": "praefate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282001-F57": [
+    {
+      "http://www.wikidata.org/entity/L282001-F57": {
+        "lila_row": "2042144",
+        "form_rep": "praemeditate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282121-F60": [
+    {
+      "http://www.wikidata.org/entity/L282121-F60": {
+        "lila_row": "2076860",
+        "form_rep": "praeteriere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282303-F60": [
+    {
+      "http://www.wikidata.org/entity/L282303-F60": {
+        "lila_row": "2100613",
+        "form_rep": "prodiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282345-F57": [
+    {
+      "http://www.wikidata.org/entity/L282345-F57": {
+        "lila_row": "2105540",
+        "form_rep": "profate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "2",
+          "imp",
+          "pl",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282534-F57": [
+    {
+      "http://www.wikidata.org/entity/L282534-F57": {
+        "lila_row": "2133803",
+        "form_rep": "prospeculate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L282981-F60": [
+    {
+      "http://www.wikidata.org/entity/L282981-F60": {
+        "lila_row": "2171685",
+        "form_rep": "quiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L283196-F57": [
+    {
+      "http://www.wikidata.org/entity/L283196-F57": {
+        "lila_row": "2183552",
+        "form_rep": "ratiocinate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L283314-F60": [
+    {
+      "http://www.wikidata.org/entity/L283314-F60": {
+        "lila_row": "2212657",
+        "form_rep": "rediere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L283456-F33": [
+    {
+      "http://www.wikidata.org/entity/L283456-F33": {
+        "lila_row": "2248101",
+        "form_rep": "remolite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L283461-F57": [
+    {
+      "http://www.wikidata.org/entity/L283461-F57": {
+        "lila_row": "2249842",
+        "form_rep": "remorate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L283620-F57": [
+    {
+      "http://www.wikidata.org/entity/L283620-F57": {
+        "lila_row": "2291548",
+        "form_rep": "restipulate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L284230-F57": [
+    {
+      "http://www.wikidata.org/entity/L284230-F57": {
+        "lila_row": "2359945",
+        "form_rep": "scitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285023-F57": [
+    {
+      "http://www.wikidata.org/entity/L285023-F57": {
+        "lila_row": "2395630",
+        "form_rep": "solate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285139-F57": [
+    {
+      "http://www.wikidata.org/entity/L285139-F57": {
+        "lila_row": "2404145",
+        "form_rep": "speculate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "2",
+          "imp",
+          "prs"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285365-F57": [
+    {
+      "http://www.wikidata.org/entity/L285365-F57": {
+        "lila_row": "2417764",
+        "form_rep": "stomachate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285487-F60": [
+    {
+      "http://www.wikidata.org/entity/L285487-F60": {
+        "lila_row": "2432213",
+        "form_rep": "subiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285500-F60": [
+    {
+      "http://www.wikidata.org/entity/L285500-F60": {
+        "lila_row": "2448789",
+        "form_rep": "subintroiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "imp",
+          "2",
+          "prs",
+          "pass",
+          "sg"
+        ],
+        "wd_not_lila": [
+          "imp",
+          "2",
+          "prs",
+          "pass",
+          "sg"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285611-F33": [
+    {
+      "http://www.wikidata.org/entity/L285611-F33": {
+        "lila_row": "2472580",
+        "form_rep": "subsortite",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "2",
+          "prs",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L285887-F57": [
+    {
+      "http://www.wikidata.org/entity/L285887-F57": {
+        "lila_row": "2562740",
+        "form_rep": "suppetiate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "wd_not_lila": [
+          "prs",
+          "2",
+          "imp",
+          "pl"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L286601-F60": [
+    {
+      "http://www.wikidata.org/entity/L286601-F60": {
+        "lila_row": "2616180",
+        "form_rep": "transabiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "2",
+          "imp",
+          "prs",
+          "pass"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L286614-F60": [
+    {
+      "http://www.wikidata.org/entity/L286614-F60": {
+        "lila_row": "2619989",
+        "form_rep": "transiere",
+        "lila_tags": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ],
+        "wd_tags": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "sg",
+          "pass",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "act",
+          "ind",
+          "3",
+          "pl"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L286821-F57": [
+    {
+      "http://www.wikidata.org/entity/L286821-F57": {
+        "lila_row": "2656504",
+        "form_rep": "tristate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ],
+  "http://www.wikidata.org/entity/L287156-F57": [
+    {
+      "http://www.wikidata.org/entity/L287156-F57": {
+        "lila_row": "2726475",
+        "form_rep": "usitate",
+        "lila_tags": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ],
+        "wd_tags": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "wd_not_lila": [
+          "pl",
+          "prs",
+          "imp",
+          "2"
+        ],
+        "lila_not_wd": [
+          "prf",
+          "pass",
+          "ptcp",
+          "voc",
+          "m",
+          "sg"
+        ]
+      },
+      "deviation": 10
+    }
+  ]
+}
