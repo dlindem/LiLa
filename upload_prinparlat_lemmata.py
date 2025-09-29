@@ -16,32 +16,32 @@ lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser,
 print("Reading prinparlat forms...")
 with open("enhanced_forms.csv") as file:
     csvrows = csv.DictReader(file, delimiter=",")
-    lila_ids = []
+    flexeme_ids = []
     for row in csvrows:
         if "#DEF#" in str(row): # In some rows, this appears - lines are skipped
             continue
         try:
-            lila_ids.append(int(row['lila_id_lemma'])) # In some rows, instead of a single lila_id convertible to int, there appears a python list (always ['114215', '114214']) - lines are skipped
+            flexeme_ids.append(int(row['lila_id_lemma'])) # In some rows, instead of a single lila_id convertible to int, there appears a python list (always ['114215', '114214']) - lines are skipped
         except Exception as ex:
             print(str(ex))
-    print(f"Got lila lemma ID from {len(lila_ids)} csv rows.")
-    lila_unique_ids = set(lila_ids)
-    print(f"That is {len(lila_unique_ids)} unique IDs.")
-    lila_unique_ids_sorted = sorted(lila_unique_ids)
+    print(f"Got lila lemma ID from {len(flexeme_ids)} csv rows.")
+    flexeme_unique_ids = set(flexeme_ids)
+    print(f"That is {len(flexeme_unique_ids)} unique IDs.")
+    flexeme_unique_ids_sorted = sorted(flexeme_unique_ids)
 
 # read mappingfile (lexemes created in former runs of the script)
-with open("prinparlat_lemma_wikibase_mapping", "r") as mappingfile:
+with open("prinparlat_wikibase_mapping.csv", "r") as mappingfile:
     mappingrows = mappingfile.read().split("\n")
-    done_lila_ids = []
+    done_flexeme_ids = []
     for row in mappingrows:
         done_lila_id_re = re.search(r"^\d+", row)
         if done_lila_id_re:
-            done_lila_ids.append(int(done_lila_id_re.group(0)))
-    print(f"{len(done_lila_ids)} LiLa ID have been processed in former runs:\n{done_lila_ids}")
+            done_flexeme_ids.append(int(done_lila_id_re.group(0)))
+    print(f"{len(done_flexeme_ids)} LiLa ID have been processed in former runs:\n{done_flexeme_ids}")
 
-with open("prinparlat_lemma_wikibase_mapping", "a") as mappingfile:
-    for lila_id in lila_unique_ids_sorted:
-        if lila_id in done_lila_ids:
+with open("prinparlat_wikibase_mapping.csv", "a") as mappingfile:
+    for lila_id in flexeme_unique_ids_sorted:
+        if lila_id in done_flexeme_ids:
             continue
         # get lemma from lila
         query = "prefix lemma: <http://lila-erc.eu/data/id/lemma/>"
