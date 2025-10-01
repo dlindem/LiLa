@@ -1,0 +1,23 @@
+PREFIX oa: <http://www.w3.org/ns/oa#>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix lila: <http://lila-erc.eu/ontologies/lila/>
+prefix ittbToken: <http://lila-erc.eu/data/corpora/ITTB/id/token/>
+prefix udp: <https://universaldependencies.org/la/feat/>
+
+select ?lila_lemma ?token ?tokenLabel
+
+(group_concat(distinct str(?feat);SEPARATOR="|") as ?features)
+
+where{
+
+  ?token powla:hasLayer/powla:hasDocument/^powla:hasSubDocument <http://lila-erc.eu/data/corpora/ITTB/id/corpus>;
+         lila:hasLemma ?lila_lemma ;
+         rdfs:label ?tokenLabel.
+  ?lila_lemma lila:hasPOS lila:verb.
+  ?morphoAnn oa:hasTarget ?token;
+             oa:hasBody ?morphFeat.
+  bind(strafter(str(?morphFeat),str(udp:)) as ?feat)
+
+} group by ?lila_lemma ?token ?tokenLabel ?features

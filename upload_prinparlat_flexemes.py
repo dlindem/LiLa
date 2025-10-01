@@ -61,9 +61,6 @@ with open("enhanced_forms.csv") as file:
     flexemes = {}
     for row in csvrows:
         flexeme_id = row['flexeme']
-        # if flexeme_id in done_flexeme_ids:
-        #     print(f"{flexeme_id} flexeme has been done before (found in mappingfile), skipped.")
-        #     continue
         if flexeme_id not in flexemes:
             flexemes[flexeme_id] = {}
         flexemes[flexeme_id][row['cell']] = row
@@ -71,25 +68,41 @@ with open("enhanced_forms.csv") as file:
 
 for flexeme in flexemes:
     print(f"\nNow processing flexeme: {flexeme}")
+    if flexeme in done_flexeme_ids:
+        print(f"{flexeme} flexeme has been done before (found in mappingfile), skipped.")
+        continue
+    if "prs.act.ind.1.sg" not in flexemes[flexeme] or "prs.pass.ind.1.sg" not in flexemes[flexeme]:
+        print(f"flexeme {flexeme} has no 1.p. in present, skipped in this run.")
+        with open("enhanced_forms_skipped_flexemes.txt", "a") as logfile:
+            logfile.write(f"{flexeme}\n")
+        continue
     rowcount = 0
     wikibase_lemma = None
     new_lexeme = None
+    # ask for forms data from the formypes (celltypes) canonical order list
     for celltype in celltypes_sorted:
         if celltype in flexemes[flexeme]:
             rowcount += 1
             rowdata = flexemes[flexeme][celltype]
-            if not wikibase_lemma:
-                wikibase_lemma = rowdata['form_normalized']
-                print(f"[{rowcount}] Found for lemma cell {celltype}: {rowdata['form_normalized']}")
+
+            if not new_lexeme: #create flexeme entry
                 new_lexeme = lilamorph.lexeme.new(language="Q3", lexical_category="Q5")  # latin verb
-                new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P6", value=rowdata['flexeme']))
+                new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P6", value=flexeme))
                 new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P8", value=rowdata['lexeme']))
                 new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P1", value=f"lemma/{rowdata['lila_id_lemma']}"))
-                time.sleep(.2)
-            if celltype == 'prs.act.ind.1.sg':
+
+            if rowdata['form_normalized'] == "#DEF#": # do not write rows with that to Wikibase
+                continue
+            if not wikibase_lemma and celltype == "prs.act.ind.1.sg":
                 wikibase_lemma = rowdata['form_normalized']
-                print(f"[{rowcount}] Found best value for lemma {celltype}: {rowdata['form_normalized']}")
+                print(f"Row {rowcount}: Found for lemma cell {celltype}: {rowdata['form_normalized']}")
+            if not wikibase_lemma and celltype == "prs.pass.ind.1.sg":
+                wikibase_lemma = rowdata['form_normalized']
+                print(f"Row {rowcount}: Found for lemma cell {celltype}: {rowdata['form_normalized']}")
+
+
             # Create form
+
             form = Form()
             form.representations.set(language='la', value=rowdata['form_normalized'])
             form.grammatical_features = cellfeatures[celltype]
@@ -97,12 +110,18 @@ for flexeme in flexemes:
             form.claims.add(datatypes.String(prop_nr="12", value=rowdata['analysed_orth_form']))
             form.claims.add(datatypes.String(prop_nr="13", value=celltype))
             new_lexeme.forms.add(form)
-        new_lexeme.lemmas.set(language="la", value=wikibase_lemma)
-    with open("test_flexeme_entry.json", "w") as jsonfile:
-        json.dump(new_lexeme.get_json(), jsonfile, indent=2)
+
+    if not wikibase_lemma:
+        print(f"flexeme {flexeme} has only #DEF# in 1.p. present, skipped in this run.")
+        with open("enhanced_forms_skipped_flexemes.txt", "a") as logfile:
+            logfile.write(f"{flexeme}\n")
+        continue
+    new_lexeme.lemmas.set(language="la", value=wikibase_lemma)
+    # with open("test_flexeme_entry.json", "w") as jsonfile:
+    #     json.dump(new_lexeme.get_json(), jsonfile, indent=2)
     new_lexeme.write()
     with open("prinparlat_wikibase_mapping.csv", "a") as mappingfile:
         mappingfile.write(f"{rowdata['flexeme']}\t{rowdata['lexeme']}\t{rowdata['lila_id_lemma']}\t{new_lexeme.id}\n")
-    print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id}")
-    time.sleep(0.5)
-    sys.exit()
+    print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {rowcount} forms.")
+    time.sleep(0.34)
+sys.exit()
