@@ -14,7 +14,7 @@ lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser,
 
 # get unique lila lemma ID from prinparlat big file
 print("Reading prinparlat forms...")
-with open("enhanced_forms.csv") as file:
+with open("data/enhanced_forms.csv") as file:
     csvrows = csv.DictReader(file, delimiter=",")
     flexeme_ids = []
     for row in csvrows:
@@ -30,7 +30,7 @@ with open("enhanced_forms.csv") as file:
     flexeme_unique_ids_sorted = sorted(flexeme_unique_ids)
 
 # read mappingfile (lexemes created in former runs of the script)
-with open("prinparlat_wikibase_mapping.csv", "r") as mappingfile:
+with open("mappings/prinparlat_wikibase_mapping_flexemes.csv", "r") as mappingfile:
     mappingrows = mappingfile.read().split("\n")
     done_flexeme_ids = []
     for row in mappingrows:
@@ -39,7 +39,7 @@ with open("prinparlat_wikibase_mapping.csv", "r") as mappingfile:
             done_flexeme_ids.append(int(done_lila_id_re.group(0)))
     print(f"{len(done_flexeme_ids)} LiLa ID have been processed in former runs:\n{done_flexeme_ids}")
 
-with open("prinparlat_wikibase_mapping.csv", "a") as mappingfile:
+with open("mappings/prinparlat_wikibase_mapping_flexemes.csv", "a") as mappingfile:
     for lila_id in flexeme_unique_ids_sorted:
         if lila_id in done_flexeme_ids:
             continue

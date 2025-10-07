@@ -32,7 +32,7 @@ for deviation_value in sorted(results.keys()):
 
     with open(f'intersection_comparison_results_deviation_{deviation_value}.json', 'w') as file:
         json.dump(improved_results[deviation_value], file, indent=2)
-    with open('duplicated_lila_rows_with_same_deviation.json', 'w') as file:
+    with open('../duplicated_lila_rows_with_same_deviation.json', 'w') as file:
         json.dump(duplicated, file, indent=2)
 
 for deviation_value in improved_results:

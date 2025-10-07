@@ -28,7 +28,7 @@ with open("enhanced_forms.csv") as file:
             if row['lila_id_lemma'] not in not_found:
                 not_found.append(row['lila_id_lemma'])
 
-with open('intersection_lilamorph_wikidata.json', 'w') as file:
+with open('first_tests/intersection_lilamorph_wikidata.json', 'w') as file:
     json.dump(found, file, indent=2)
 with open('lilamorph_missing_in_wikidata.json', 'w') as file:
     json.dump(not_found, file, indent=2)

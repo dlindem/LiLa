@@ -11,7 +11,7 @@ print("Getting logged into lilamorph wikibase...")
 lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser, password=config_private.wbpwd))
 
 # get prinparlat cell descriptors mapping
-with open("leipzig_wikibase_mapping.csv") as file:
+with open("data/leipzig_wikibase_mapping.csv") as file:
     mappingrows = csv.reader(file, delimiter="\t")
     leipzig_qid = {}
     for row in mappingrows:
@@ -19,7 +19,7 @@ with open("leipzig_wikibase_mapping.csv") as file:
 print(f"Leipzig cell descriptors mapping: {leipzig_qid}")
 
 # get prinparlat cell types default order
-with open("leipzig_celltypes_sorted.txt") as file:
+with open("data/leipzig_celltypes_sorted.txt") as file:
     celltypes_sorted = file.read().split("\n")
 cellfeatures = {}
 for celltype in celltypes_sorted:
@@ -27,6 +27,10 @@ for celltype in celltypes_sorted:
     for val in celltype.split("."):
         cellfeatures[celltype].append(leipzig_qid[val])
 print(f"cellfeatures dict: {cellfeatures}")
+
+# get prinparlat cell types default order
+with open("data/prinparlat_lexemes_canonical_forms.csv") as file:
+
 
 
 # # get unique lila lemma ID from prinparlat big file
@@ -47,7 +51,7 @@ print(f"cellfeatures dict: {cellfeatures}")
 #     flexeme_unique_ids_sorted = sorted(flexeme_unique_ids)
 
 # read mappingfile (lexemes created in former runs of the script)
-with open("prinparlat_wikibase_mapping.csv", "r") as mappingfile:
+with open("mappings/prinparlat_wikibase_mapping_flexemes.csv", "r") as mappingfile:
     mappingrows = csv.DictReader(mappingfile, delimiter="\t")
     done_flexeme_ids = []
     for row in mappingrows:
@@ -55,7 +59,7 @@ with open("prinparlat_wikibase_mapping.csv", "r") as mappingfile:
     print(f"{len(done_flexeme_ids)} flexeme IDs have been processed in former runs:\n{done_flexeme_ids}")
 
 # build forms dictionary
-with open("enhanced_forms.csv") as file:
+with open("data/enhanced_forms.csv") as file:
     not_found = 0
     csvrows = csv.DictReader(file, delimiter=",")
     flexemes = {}
@@ -73,7 +77,7 @@ for flexeme in flexemes:
         continue
     if "prs.act.ind.1.sg" not in flexemes[flexeme] or "prs.pass.ind.1.sg" not in flexemes[flexeme]:
         print(f"flexeme {flexeme} has no 1.p. in present, skipped in this run.")
-        with open("enhanced_forms_skipped_flexemes.txt", "a") as logfile:
+        with open("data/enhanced_forms_skipped_flexemes_flexemes_upload.txt", "a") as logfile:
             logfile.write(f"{flexeme}\n")
         continue
     rowcount = 0
@@ -113,14 +117,14 @@ for flexeme in flexemes:
 
     if not wikibase_lemma:
         print(f"flexeme {flexeme} has only #DEF# in 1.p. present, skipped in this run.")
-        with open("enhanced_forms_skipped_flexemes.txt", "a") as logfile:
+        with open("data/enhanced_forms_skipped_flexemes_flexemes_upload.txt", "a") as logfile:
             logfile.write(f"{flexeme}\n")
         continue
     new_lexeme.lemmas.set(language="la", value=wikibase_lemma)
     # with open("test_flexeme_entry.json", "w") as jsonfile:
     #     json.dump(new_lexeme.get_json(), jsonfile, indent=2)
     new_lexeme.write()
-    with open("prinparlat_wikibase_mapping.csv", "a") as mappingfile:
+    with open("mappings/prinparlat_wikibase_mapping_flexemes.csv", "a") as mappingfile:
         mappingfile.write(f"{rowdata['flexeme']}\t{rowdata['lexeme']}\t{rowdata['lila_id_lemma']}\t{new_lexeme.id}\n")
     print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {rowcount} forms.")
     time.sleep(0.34)

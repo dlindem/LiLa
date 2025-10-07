@@ -3,7 +3,7 @@ import csv
 import pandas as pd
 import time
 
-data = pd.read_csv("lemmata_wikibase.csv", sep="\t")
+data = pd.read_csv("data/lemmata_wikibase.csv", sep="\t")
 length = data.shape[0]
 rowcount = 1
 thislemma = None
@@ -22,7 +22,7 @@ while rowcount < length:
 # print(list(lemmadict.keys()))
 
 matchcount = 0
-with open("ITTB_verb_tokendata.csv") as file:
+with open("data/ITTB_verb_tokendata.csv") as file:
     tokenrows = csv.DictReader(file, delimiter="\t")
     for row in tokenrows:
         # print(f"Now processing lemma ID: {row['lila_lemma']}...")

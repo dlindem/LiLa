@@ -10,7 +10,7 @@ tags = {'prs': 'Q192613', 'act': 'Q1317831', 'ind': 'Q682111', '1': 'Q21714344',
         'fprf': 'Q1234617',
         'sup': 'Q1817208'}
 
-with open("enhanced_forms.csv") as file:
+with open("data/enhanced_forms.csv") as file:
     csvrows = csv.DictReader(file, delimiter=",")
     tags_count = {}
     for row in csvrows:

@@ -32,7 +32,7 @@ tags = {'prs': 'Q192613', 'act': 'Q1317831', 'ind': 'Q682111', '1': 'Q21714344',
 with open("wikidata_forms.json") as file:
     wikidata = json.load(file)
 
-with open("intersection_lilamorph_wikidata.json") as file:
+with open("first_tests/intersection_lilamorph_wikidata.json") as file:
     intersection = json.load(file)
 
 matching_forms_output = []
