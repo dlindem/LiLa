@@ -6,7 +6,7 @@ from wikibaseintegrator.models import Reference, References, Form, Sense
 from wikibaseintegrator.wbi_config import config
 import config_private # bot user and pwd from hidden file
 config['MEDIAWIKI_API_URL'] = "https://lilamorph.wikibase.cloud/w/api.php"
-config['USER_AGENT'] = "upload_prinparlat_lemmata.py"
+config['USER_AGENT'] = "upload_prinparlat_lexemes.py"
 print("Getting logged into lilamorph wikibase...")
 lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser, password=config_private.wbpwd))
 
@@ -36,23 +36,6 @@ with open("data/prinparlat_lexemes_canonical_forms.csv") as file:
         canonicalforms[row['lexeme_id']] = row['label']
 print(f"Loaded canonical forms for {len(canonicalforms)} prinparlat lemma id.")
 
-# # get unique lila lemma ID from prinparlat big file
-# print("Reading prinparlat forms...")
-# with open("enhanced_forms.csv") as file:
-#     csvrows = csv.DictReader(file, delimiter=",")
-#     lexeme_ids = []
-#     for row in csvrows:
-#         if "#DEF#" in str(row): # Defectives in irregulars (e.g. deponents) - lines are skipped
-#             continue
-#         try:
-#             lexeme_ids.append(row['lexeme']) # In some rows, instead of a single lila_id convertible to int, there appears a python list (always ['114215', '114214']) - lines are skipped
-#         except Exception as ex:
-#             print(str(ex))
-#     print(f"Got prinparlat lexeme ID from {len(lexeme_ids)} csv rows.")
-#     lexeme_unique_ids = set(lexeme_ids)
-#     print(f"That is {len(lexeme_unique_ids)} unique IDs.")
-#     lexeme_unique_ids_sorted = sorted(lexeme_unique_ids)
-
 # read mappingfile (lexemes created in former runs of the script)
 with open("mappings/prinparlat_wikibase_mapping_lexemes.csv", "r") as mappingfile:
     mappingrows = csv.DictReader(mappingfile, delimiter="\t")
@@ -79,18 +62,18 @@ with open("data/enhanced_forms.csv") as file:
 for lexeme_id in lexemes:
     print(f"\nNow processing lexeme: {lexeme_id}, '{lexemes[lexeme_id]['canonical']}'")
     if lexeme_id in done_lexeme_ids:
-        print(f"{lexeme_id} lexeme_idhas been done before (found in mappingfile), skipped.")
+        print(f"{lexeme_id} lexeme_id has been done before (found in mappingfile), skipped.")
         continue
 
     rowcount = 0
     new_lexeme = None
 
-    # ask for forms data from the formypes (celltypes) canonical order list
+    # ask for forms data from the formtypes (celltypes) canonical order list
     for celltype in celltypes_sorted:
         for flexeme_cell in lexemes[lexeme_id]['data']:
             flexeme_cell_code = flexeme_cell.split("@")
             cell = flexeme_cell_code[1]
-            if cell != celltype:
+            if cell != celltype: # no celltype match
                 continue
             rowcount += 1
             flexeme_id = flexeme_cell_code[0]
@@ -98,6 +81,7 @@ for lexeme_id in lexemes:
             if not new_lexeme:
                 new_lexeme = lilamorph.lexeme.new(language="Q3", lexical_category="Q5")  # latin verb
                 new_lexeme.lemmas.set(language="la", value=lexemes[lexeme_id]['canonical'])
+                new_lexeme.claims.add(datatypes.Item(prop_nr="P14", value="Q10"))
                 new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P8", value=lexeme_id))
                 new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P1", value=f"lemma/{rowdata['lila_id_lemma']}"))
             if rowdata['form_normalized'] == "#DEF#":  # do not write rows with that to Wikibase
@@ -113,19 +97,26 @@ for lexeme_id in lexemes:
             form.claims.add(datatypes.String(prop_nr="13", value=celltype))
             new_lexeme.forms.add(form)
 
-    # if not wikibase_lemma:
-    #     print(f"lexeme {lexeme} has only #DEF# in 1.p. present, skipped in this run.")
-    #     with open("data/enhanced_forms_skipped_lexemes_lexemes_upload.txt", "a") as logfile:
-    #         logfile.write(f"{lexeme}\n")
-    #     continue
+    # with open("test_lexeme_entry.json", "w") as jsonfile:
+    #     json.dump(new_lexeme.get_json(), jsonfile, indent=2)
+    done = False
+    attempts = 0
+    too_large_lexemes = []
+    while not done and attempts < 2:
+        attempts += 1
+        try:
+            new_lexeme.write()
+            done = True
+            with open("mappings/prinparlat_wikibase_mapping_lexemes.csv", "a") as mappingfile:
+                mappingfile.write(f"{rowdata['lexeme']}\t{rowdata['lila_id_lemma']}\t{new_lexeme.id}\n")
+            print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {rowcount} forms.")
+        except Exception as ex:
+            print(str(ex))
+            if "Request Entity Too Large" in str(ex) and lexeme_id not in too_large_lexemes:
+                with open('data/too_large_lexemes.txt', 'a') as errorlog:
+                    errorlog.write(f"{lexeme_id}\n")
+                    too_large_lexemes.append(lexeme_id)
+        time.sleep(1.5)
 
-    with open("test_lexeme_entry.json", "w") as jsonfile:
-        json.dump(new_lexeme.get_json(), jsonfile, indent=2)
-    # new_lexeme.write()
-    # with open("mappings/prinparlat_wikibase_mapping_lexemes.csv", "a") as mappingfile:
-    #     mappingfile.write(f"{rowdata['lexeme']}\t{rowdata['lexeme']}\t{rowdata['lila_id_lemma']}\t{new_lexeme.id}\n")
-    print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {rowcount} forms.")
-    time.sleep(0.34)
-    if rowcount > 500:
-        break
+print("\nFinished.")
 sys.exit()
