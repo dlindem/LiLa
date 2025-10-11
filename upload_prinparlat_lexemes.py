@@ -9,7 +9,7 @@ config['MEDIAWIKI_API_URL'] = "https://lilamorph.wikibase.cloud/w/api.php"
 config['USER_AGENT'] = "upload_prinparlat_lexemes.py"
 print("Getting logged into lilamorph wikibase...")
 lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser, password=config_private.wbpwd))
-
+print("Login successful.")
 # get prinparlat cell descriptors mapping
 with open("data/leipzig_wikibase_mapping.csv") as file:
     mappingrows = csv.reader(file, delimiter="\t")
@@ -59,13 +59,17 @@ with open("data/enhanced_forms.csv") as file:
         lexemes[lexeme_id]['data'][f"{row['flexeme']}@{row['cell']}"] = row # assumes that there is a unique flexeme_id@cell combination in the lexeme
     print(f"lexemes lexicon built: ({len(lexemes)} lexemes).")
 
+lexeme_count = 0
+too_large_lexemes = []
 for lexeme_id in lexemes:
-    print(f"\nNow processing lexeme: {lexeme_id}, '{lexemes[lexeme_id]['canonical']}'")
+    lexeme_count += 1
+    print(f"\nNow processing lexeme {lexeme_count}/{len(lexemes)}: {lexeme_id}, '{lexemes[lexeme_id]['canonical']}'")
     if lexeme_id in done_lexeme_ids:
         print(f"{lexeme_id} lexeme_id has been done before (found in mappingfile), skipped.")
         continue
 
     rowcount = 0
+    formnumbercount = 0
     new_lexeme = None
 
     # ask for forms data from the formtypes (celltypes) canonical order list
@@ -88,6 +92,7 @@ for lexeme_id in lexemes:
                 continue
 
             # Create form
+            formnumbercount += 1
             form = Form()
             form.representations.set(language='la', value=rowdata['form_normalized'])
             form.grammatical_features = cellfeatures[celltype]
@@ -97,24 +102,35 @@ for lexeme_id in lexemes:
             form.claims.add(datatypes.String(prop_nr="13", value=celltype))
             new_lexeme.forms.add(form)
 
+        if rowcount > 600:
+            print("*** Long lexeme. Will skip this lexeme. ***")
+            new_lexeme = None
+            break
+            # print("*** Long lexeme. Will write 500 forms and then proceed ***")
+            # new_lexeme.write()
+            # time.sleep(3)
+            # lid = new_lexeme.id
+            # new_lexeme = lilamorph.lexeme.get(entity_id=lid)
+            # rowcount = 0
+            # print(f"*** Re-start with lexeme {lid} after writing 500 forms ***")
     # with open("test_lexeme_entry.json", "w") as jsonfile:
     #     json.dump(new_lexeme.get_json(), jsonfile, indent=2)
     done = False
     attempts = 0
-    too_large_lexemes = []
-    while not done and attempts < 2:
+
+    while new_lexeme and not done and attempts < 2:
         attempts += 1
         try:
             new_lexeme.write()
             done = True
             with open("mappings/prinparlat_wikibase_mapping_lexemes.csv", "a") as mappingfile:
                 mappingfile.write(f"{rowdata['lexeme']}\t{rowdata['lila_id_lemma']}\t{new_lexeme.id}\n")
-            print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {rowcount} forms.")
+            print(f"Sucessfully created Lexeme https://lilamorph.wikibase.cloud/entity/{new_lexeme.id} and added {formnumbercount} forms.")
         except Exception as ex:
             print(str(ex))
             if "Request Entity Too Large" in str(ex) and lexeme_id not in too_large_lexemes:
                 with open('data/too_large_lexemes.txt', 'a') as errorlog:
-                    errorlog.write(f"{lexeme_id}\n")
+                    errorlog.write(f"{lexeme_id}\t{rowcount}\n")
                     too_large_lexemes.append(lexeme_id)
         time.sleep(1.5)
 

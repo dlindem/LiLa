@@ -6,7 +6,7 @@ prefix lila: <http://lila-erc.eu/ontologies/lila/>
 prefix ittbToken: <http://lila-erc.eu/data/corpora/ITTB/id/token/>
 prefix udp: <https://universaldependencies.org/la/feat/>
 
-select ?lila_lemma ?token ?tokenLabel
+select ?lila_lemma ?token ?tokenLabel ?morphoAnn
 
 (group_concat(distinct str(?feat);SEPARATOR="|") as ?features)
 
@@ -20,4 +20,6 @@ where{
              oa:hasBody ?morphFeat.
   bind(strafter(str(?morphFeat),str(udp:)) as ?feat)
 
-} group by ?lila_lemma ?token ?tokenLabel ?features
+} group by ?lila_lemma ?token ?tokenLabel ?morphoAnn ?features
+
+
