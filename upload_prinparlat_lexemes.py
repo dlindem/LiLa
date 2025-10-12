@@ -146,7 +146,7 @@ for lexeme_id in lexemes:
     done = False
     attempts = 0
 
-    while new_lexeme and not done and attempts < 2:
+    while new_lexeme and not done and not long_lexeme and attempts < 2:
         attempts += 1
         try:
             new_lexeme.write()
