@@ -1,15 +1,22 @@
 import csv, sys, time, re, json
+import config_private # bot user and pwd from hidden file
 
+import mwclient # mediawiki api client (will be used for itemdata > 1MB
+lilamorph_api = mwclient.Site('lilamorph.wikibase.cloud')
+login = lilamorph_api.login(username=config_private.wbuser, password=config_private.wbpwd)
+csrfquery = lilamorph_api.api('query', meta='tokens')
+lilamorph_api_token = csrfquery['query']['tokens']['csrftoken']
+print("Got fresh CSRF token for lilamorph.wikibase.cloud.")
 # wikibaseintegrator for lilamorph wikibase
 from wikibaseintegrator import WikibaseIntegrator, wbi_login, datatypes
 from wikibaseintegrator.models import Reference, References, Form, Sense
 from wikibaseintegrator.wbi_config import config
-import config_private # bot user and pwd from hidden file
 config['MEDIAWIKI_API_URL'] = "https://lilamorph.wikibase.cloud/w/api.php"
 config['USER_AGENT'] = "upload_prinparlat_lexemes.py"
 print("Getting logged into lilamorph wikibase...")
 lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser, password=config_private.wbpwd))
 print("Login successful.")
+
 # get prinparlat cell descriptors mapping
 with open("data/leipzig_wikibase_mapping.csv") as file:
     mappingrows = csv.reader(file, delimiter="\t")
@@ -69,9 +76,9 @@ for lexeme_id in lexemes:
         continue
 
     rowcount = 0
-    formnumbercount = 0
-    new_lexeme = None
 
+    new_lexeme = None
+    long_lexeme = False
     # ask for forms data from the formtypes (celltypes) canonical order list
     for celltype in celltypes_sorted:
         for flexeme_cell in lexemes[lexeme_id]['data']:
@@ -90,29 +97,50 @@ for lexeme_id in lexemes:
                 new_lexeme.claims.add(datatypes.ExternalID(prop_nr="P1", value=f"lemma/{rowdata['lila_id_lemma']}"))
             if rowdata['form_normalized'] == "#DEF#":  # do not write rows with that to Wikibase
                 continue
+            if not long_lexeme:
+                # Create form (normal mode)
+                form = Form()
+                form.representations.set(language='la', value=rowdata['form_normalized'])
+                form.grammatical_features = cellfeatures[celltype]
+                form.claims.add(datatypes.ExternalID(prop_nr="P6", value=flexeme_id))
+                form.claims.add(datatypes.MonolingualText(prop_nr="P11", language="la", text=rowdata['orth_form']))
+                form.claims.add(datatypes.String(prop_nr="P12", value=rowdata['analysed_orth_form']))
+                form.claims.add(datatypes.String(prop_nr="P13", value=celltype))
+                new_lexeme.forms.add(form)
+            else: # starting from form n. 600+, add one-by-one using mwclient
+                formdata = {
+                    "representations": {"la": {"language": "la", "value": rowdata['form_normalized']}},
+                    "grammaticalFeatures": cellfeatures[celltype]
+                }
+                formcreation = lilamorph_api.post('wbladdform', token=lilamorph_api_token, format="json", lexemeId=long_lexeme, bot=1, data=json.dumps(formdata))
+                formid = formcreation['form']['id']
+                print(f'\n{rowcount}: Form creation for ' + long_lexeme + ': success: ' + formid)
+                time.sleep(.5)
+                claims = {
+                    "P6": f'"{flexeme_id}"',
+                    "P11": json.dumps({"language": "la", "text": rowdata['orth_form']}),
+                    "P12": f'"{rowdata['analysed_orth_form']}"',
+                    "P13": f'"{celltype}"'
+                }
+                for claimprop in claims:
+                    claimcreation = lilamorph_api.post('wbcreateclaim', token=lilamorph_api_token, entity=formid, property=claimprop, snaktype="value", bot=1, value=claims[claimprop])
+                    if claimcreation['success'] == 1:
+                        print(f'Claim {claimprop} - {claims[claimprop]}: success.')
+                        time.sleep(.5)
+                    else:
+                        print(f"Failed to write claim {claimprop} - {claims[claimprop]}")
+                        sys.exit()
 
-            # Create form
-            formnumbercount += 1
-            form = Form()
-            form.representations.set(language='la', value=rowdata['form_normalized'])
-            form.grammatical_features = cellfeatures[celltype]
-            form.claims.add(datatypes.ExternalID(prop_nr="P6", value=flexeme_id))
-            form.claims.add(datatypes.MonolingualText(prop_nr="11", language="la", text=rowdata['orth_form']))
-            form.claims.add(datatypes.String(prop_nr="12", value=rowdata['analysed_orth_form']))
-            form.claims.add(datatypes.String(prop_nr="13", value=celltype))
-            new_lexeme.forms.add(form)
-
-        if rowcount > 600:
-            print("*** Long lexeme. Will skip this lexeme. ***")
-            new_lexeme = None
-            break
-            # print("*** Long lexeme. Will write 500 forms and then proceed ***")
-            # new_lexeme.write()
-            # time.sleep(3)
-            # lid = new_lexeme.id
-            # new_lexeme = lilamorph.lexeme.get(entity_id=lid)
-            # rowcount = 0
-            # print(f"*** Re-start with lexeme {lid} after writing 500 forms ***")
+        if not long_lexeme and rowcount > 600:
+            # print("*** Long lexeme. Will skip this lexeme. ***")
+            # new_lexeme = None
+            # break
+            print("*** Long lexeme. Will write 600 forms and then proceed ***")
+            new_lexeme.write()
+            print(f"*** Written 600 forms to http://lilamorph.wikibase.cloud/entity/{new_lexeme.id}")
+            time.sleep(2)
+            long_lexeme = new_lexeme.id
+            print(f"*** Changing to form-by-forms mode with lexeme {long_lexeme} after writing 600 forms ***")
     # with open("test_lexeme_entry.json", "w") as jsonfile:
     #     json.dump(new_lexeme.get_json(), jsonfile, indent=2)
     done = False
