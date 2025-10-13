@@ -31,28 +31,31 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
         count += 1
         print(f"\n[{count}] Now processing {row}")
         if row['P17'] in done_items:
-            continue
-            print(f"Token {row['P17']} has been done in a previous run, will load.")
-            new_item = lilamorph.item.get(entity_id=done_items[row['P17']])
+            if len(row['lila_lemmas'].split("|")) < 2:
+                print(f"Token {row['token']} has been done in a previous run, will load.")
+            else:
+                print(f"Token {row['token']} has been done in a previous run but will be re-written.")
+                new_item = lilamorph.item.get(entity_id=done_items[row['token']])
         else:
             new_item = lilamorph.item.new()
-        new_item.labels.set(language="la", value=row['Lla'])
-        new_item.labels.set(language="en", value=row['Lla'])
-        new_item.descriptions.set(language="en", value=f"ITTB token {row['P17']}")
-        new_item.claims.add(datatypes.Item(prop_nr="P5", value="Q12")) # instance of corpus token
-        new_item.claims.add(datatypes.Item(prop_nr="P14", value="Q13")) # part of ITTB
+        new_item.labels.set(language="la", value=row['tokenLabel'])
+        new_item.labels.set(language="en", value=row['tokenLabel'])
+        new_item.descriptions.set(language="en", value=f"ITTB token {row['token']}")
+        new_item.claims.add(datatypes.Item(prop_nr="P5", value="Q12"), action_if_exists=ActionIfExists.APPEND_OR_REPLACE) # instance of corpus token
+        new_item.claims.add(datatypes.Item(prop_nr="P14", value="Q13"), action_if_exists=ActionIfExists.APPEND_OR_REPLACE) # part of ITTB
         token_references = References()
         sourceref = Reference()
-        sourceref.add(datatypes.ExternalID(prop_nr="P17", value=row['P17'])) # ITTB token ID
+        sourceref.add(datatypes.ExternalID(prop_nr="P17", value=row['token'])) # ITTB token ID
         sourceref.add(datatypes.Time(prop_nr="P19", time="now"))
         token_references.add(sourceref)
         anno_references = References()
         sourceref = Reference()
-        sourceref.add(datatypes.ExternalID(prop_nr="P20", value=row['P17']))  # ITTB token ID
+        sourceref.add(datatypes.ExternalID(prop_nr="P20", value=row['token']))  # ITTB token ID
         sourceref.add(datatypes.Time(prop_nr="P19", time="now"))
         anno_references.add(sourceref)
-        new_item.claims.add(datatypes.ExternalID(prop_nr="P17", value=row['P17'])) # ITTB token ID
-        new_item.claims.add(datatypes.ExternalID(prop_nr="P16", value=row['P16'], references=token_references)) # ITTB token ID)) # linked to Lila Lemma
+        new_item.claims.add(datatypes.ExternalID(prop_nr="P17", value=row['token'])) # ITTB token ID
+        for lila_lemma_id in row['lila_lemmas'].split("|"):
+            new_item.claims.add(datatypes.ExternalID(prop_nr="P16", value=lila_lemma_id, references=token_references), action_if_exists=ActionIfExists.APPEND_OR_REPLACE) # linked to Lila Lemma
         for feat in row['features'].split("|"):
             print(f"Adding morph annotation {udp[feat]}")
             new_item.claims.add(datatypes.Item(prop_nr="P18", value=udp[feat], references=anno_references), action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
@@ -67,10 +70,8 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
                     logfile.write(f"{row['P17']}\t{new_item.id}\n")
                 print(f"Successfully written to https://lilamorph.wikibase.cloud/entity/{new_item.id}")
             except Exception as ex:
-                if "using the same description text" in str(ex):
-                    print(f"This token appears two times in the lila results, unclear why.")
-                    done = True
-            time.sleep(.5)
+                print(str(ex))
+            time.sleep(3)
             if attempts == 3:
                 sys.exit()
 
