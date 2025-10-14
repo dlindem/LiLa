@@ -30,9 +30,10 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
     for row in ittbrows:
         count += 1
         print(f"\n[{count}] Now processing {row}")
-        if row['P17'] in done_items:
+        if row['token'] in done_items:
             if len(row['lila_lemmas'].split("|")) < 2:
-                print(f"Token {row['token']} has been done in a previous run, will load.")
+                print(f"Token {row['token']} has been done in a previous run, will skip.")
+                continue
             else:
                 print(f"Token {row['token']} has been done in a previous run but will be re-written.")
                 new_item = lilamorph.item.get(entity_id=done_items[row['token']])
@@ -57,8 +58,9 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
         for lila_lemma_id in row['lila_lemmas'].split("|"):
             new_item.claims.add(datatypes.ExternalID(prop_nr="P16", value=lila_lemma_id, references=token_references), action_if_exists=ActionIfExists.APPEND_OR_REPLACE) # linked to Lila Lemma
         for feat in row['features'].split("|"):
-            print(f"Adding morph annotation {udp[feat]}")
-            new_item.claims.add(datatypes.Item(prop_nr="P18", value=udp[feat], references=anno_references), action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
+            if feat != "": # there are some empty features lists
+                print(f"Adding morph annotation {udp[feat]}")
+                new_item.claims.add(datatypes.Item(prop_nr="P18", value=udp[feat], references=anno_references), action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
         done = False
         attempts = 0
         while not done:
@@ -67,7 +69,7 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
                 new_item.write()
                 done = True
                 with open('mappings/ITTB_tokens_wikibase.csv', 'a') as logfile:
-                    logfile.write(f"{row['P17']}\t{new_item.id}\n")
+                    logfile.write(f"{row['token']}\t{new_item.id}\n")
                 print(f"Successfully written to https://lilamorph.wikibase.cloud/entity/{new_item.id}")
             except Exception as ex:
                 print(str(ex))
