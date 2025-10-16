@@ -71,7 +71,7 @@ with (open('data/ITTB_verb_tokendata_for_upload.csv') as file):
                 with open('mappings/ITTB_tokens_wikibase.csv', 'a') as logfile:
                     logfile.write(f"{row['token']}\t{new_item.id}\n")
                 print(f"Successfully written to https://lilamorph.wikibase.cloud/entity/{new_item.id}")
-                time.sleep(.3)
+                time.sleep(.4)
             except Exception as ex:
                 print(str(ex))
                 time.sleep(3)
