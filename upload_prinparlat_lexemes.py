@@ -62,8 +62,10 @@ with open("data/enhanced_forms.csv") as file:
             print(f"Lexeme {lexeme_id} not found in canonical forms list.")
             sys.exit()
         if lexeme_id not in lexemes:
-            lexemes[lexeme_id] = {'canonical': canonicalforms[lexeme_id], 'data': {}}
-        lexemes[lexeme_id]['data'][f"{row['flexeme']}@{row['cell']}"] = row # assumes that there is a unique flexeme_id@cell combination in the lexeme
+            lexemes[lexeme_id] = {'canonical': canonicalforms[lexeme_id], 'cells': {}}
+        if row['cell'] not in lexemes[lexeme_id]['cells']:
+            lexemes[lexeme_id]['cells'][row['cell']] = []
+        lexemes[lexeme_id]['cells'][row['cell']].append(row)
     print(f"lexemes lexicon built: ({len(lexemes)} lexemes).")
 
 lexeme_count = 0
