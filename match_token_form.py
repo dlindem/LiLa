@@ -72,6 +72,7 @@ with open("data/ITTB_verb_tokendata_for_upload.csv") as file:
                     for feature in form_features:
                         if feature not in token_features:
                             match = False
+                            break
                     if match:
                         match_for_token = True
                         matchcount += 1

@@ -232,8 +232,6 @@ gdv.dat.n.sg
 gdv.dat.m.pl
 gdv.dat.f.pl
 gdv.dat.n.pl
-gdv.abl.f.pl
-gdv.abl.n.pl
 gdv.acc.m.sg
 gdv.acc.f.sg
 gdv.acc.n.sg
@@ -244,6 +242,8 @@ gdv.abl.m.sg
 gdv.abl.f.sg
 gdv.abl.n.sg
 gdv.abl.m.pl
+gdv.abl.f.pl
+gdv.abl.n.pl
 gdv.voc.m.sg
 gdv.voc.f.sg
 gdv.voc.n.sg

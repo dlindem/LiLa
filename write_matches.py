@@ -14,6 +14,8 @@ with open('data/matching_tokens_lexemedict_v2_short.csv') as file:
     count = 0
     for row in rows:
         count += 1
+        if count < 60339:
+            continue
         print(f"\nNow processing row [{count}]: {row}")
         entity = lilamorph.item.get(entity_id=row['token_qid'])
         entity.claims.add(datatypes.Form(prop_nr="P21", value=row['matching_form']))
