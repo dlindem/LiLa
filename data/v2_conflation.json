@@ -1,0 +1,6103 @@
+{
+  "canonical": "absum",
+  "cells": {
+    "iprf.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30798",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.sg",
+          "analysed_orth_form": "aberam",
+          "flexeme": "a0200_128",
+          "orth_form": "aberam",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberam"
+        },
+        {
+          "form_id": "31037",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.sg",
+          "analysed_orth_form": "aberam",
+          "flexeme": "a0200_129",
+          "orth_form": "aberam",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberam"
+        },
+        {
+          "form_id": "31276",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.sg",
+          "analysed_orth_form": "aberam",
+          "flexeme": "a0200_130",
+          "orth_form": "aberam",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberam"
+        }
+      ],
+      "conflations": {
+        "aberam": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30799",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.pl",
+          "analysed_orth_form": "aberant",
+          "flexeme": "a0200_128",
+          "orth_form": "aberant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberant"
+        },
+        {
+          "form_id": "31038",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.pl",
+          "analysed_orth_form": "aberant",
+          "flexeme": "a0200_129",
+          "orth_form": "aberant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberant"
+        },
+        {
+          "form_id": "31277",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.pl",
+          "analysed_orth_form": "aberant",
+          "flexeme": "a0200_130",
+          "orth_form": "aberant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberant"
+        }
+      ],
+      "conflations": {
+        "aberant": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30800",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.sg",
+          "analysed_orth_form": "aberat",
+          "flexeme": "a0200_128",
+          "orth_form": "aberat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberat"
+        },
+        {
+          "form_id": "31039",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.sg",
+          "analysed_orth_form": "aberat",
+          "flexeme": "a0200_129",
+          "orth_form": "aberat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberat"
+        },
+        {
+          "form_id": "31278",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.3.sg",
+          "analysed_orth_form": "aberat",
+          "flexeme": "a0200_130",
+          "orth_form": "aberat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberat"
+        }
+      ],
+      "conflations": {
+        "aberat": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30801",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.pl",
+          "analysed_orth_form": "aberimus",
+          "flexeme": "a0200_128",
+          "orth_form": "aberimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberimus"
+        },
+        {
+          "form_id": "31040",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.pl",
+          "analysed_orth_form": "aberimus",
+          "flexeme": "a0200_129",
+          "orth_form": "aberimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberimus"
+        },
+        {
+          "form_id": "31279",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.pl",
+          "analysed_orth_form": "aberimus",
+          "flexeme": "a0200_130",
+          "orth_form": "aberimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberimus"
+        }
+      ],
+      "conflations": {
+        "aberimus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30802",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.sg",
+          "analysed_orth_form": "aberis",
+          "flexeme": "a0200_128",
+          "orth_form": "aberis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberis"
+        },
+        {
+          "form_id": "31041",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.sg",
+          "analysed_orth_form": "aberis",
+          "flexeme": "a0200_129",
+          "orth_form": "aberis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberis"
+        },
+        {
+          "form_id": "31280",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.sg",
+          "analysed_orth_form": "aberis",
+          "flexeme": "a0200_130",
+          "orth_form": "aberis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberis"
+        }
+      ],
+      "conflations": {
+        "aberis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30803",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.sg",
+          "analysed_orth_form": "aberit",
+          "flexeme": "a0200_128",
+          "orth_form": "aberit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberit"
+        },
+        {
+          "form_id": "31042",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.sg",
+          "analysed_orth_form": "aberit",
+          "flexeme": "a0200_129",
+          "orth_form": "aberit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberit"
+        },
+        {
+          "form_id": "31281",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.sg",
+          "analysed_orth_form": "aberit",
+          "flexeme": "a0200_130",
+          "orth_form": "aberit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberit"
+        }
+      ],
+      "conflations": {
+        "aberit": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30804",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.pl",
+          "analysed_orth_form": "aberitis",
+          "flexeme": "a0200_128",
+          "orth_form": "aberitis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberitis"
+        },
+        {
+          "form_id": "31043",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.pl",
+          "analysed_orth_form": "aberitis",
+          "flexeme": "a0200_129",
+          "orth_form": "aberitis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberitis"
+        },
+        {
+          "form_id": "31282",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.2.pl",
+          "analysed_orth_form": "aberitis",
+          "flexeme": "a0200_130",
+          "orth_form": "aberitis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberitis"
+        }
+      ],
+      "conflations": {
+        "aberitis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30805",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.pl",
+          "analysed_orth_form": "aberunt",
+          "flexeme": "a0200_128",
+          "orth_form": "aberunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberunt"
+        },
+        {
+          "form_id": "31044",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.pl",
+          "analysed_orth_form": "aberunt",
+          "flexeme": "a0200_129",
+          "orth_form": "aberunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberunt"
+        },
+        {
+          "form_id": "31283",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.3.pl",
+          "analysed_orth_form": "aberunt",
+          "flexeme": "a0200_130",
+          "orth_form": "aberunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberunt"
+        }
+      ],
+      "conflations": {
+        "aberunt": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30806",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.pl",
+          "analysed_orth_form": "aber\u0101mus",
+          "flexeme": "a0200_128",
+          "orth_form": "aber\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberamus"
+        },
+        {
+          "form_id": "31045",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.pl",
+          "analysed_orth_form": "aber\u0101mus",
+          "flexeme": "a0200_129",
+          "orth_form": "aber\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberamus"
+        },
+        {
+          "form_id": "31284",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.1.pl",
+          "analysed_orth_form": "aber\u0101mus",
+          "flexeme": "a0200_130",
+          "orth_form": "aber\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberamus"
+        }
+      ],
+      "conflations": {
+        "aber\u0101mus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30807",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.sg",
+          "analysed_orth_form": "aber\u0101s",
+          "flexeme": "a0200_128",
+          "orth_form": "aber\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberas"
+        },
+        {
+          "form_id": "31046",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.sg",
+          "analysed_orth_form": "aber\u0101s",
+          "flexeme": "a0200_129",
+          "orth_form": "aber\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberas"
+        },
+        {
+          "form_id": "31285",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.sg",
+          "analysed_orth_form": "aber\u0101s",
+          "flexeme": "a0200_130",
+          "orth_form": "aber\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberas"
+        }
+      ],
+      "conflations": {
+        "aber\u0101s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30808",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.pl",
+          "analysed_orth_form": "aber\u0101tis",
+          "flexeme": "a0200_128",
+          "orth_form": "aber\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberatis"
+        },
+        {
+          "form_id": "31047",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.pl",
+          "analysed_orth_form": "aber\u0101tis",
+          "flexeme": "a0200_129",
+          "orth_form": "aber\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberatis"
+        },
+        {
+          "form_id": "31286",
+          "lexeme": "a0200",
+          "cell": "iprf.act.ind.2.pl",
+          "analysed_orth_form": "aber\u0101tis",
+          "flexeme": "a0200_130",
+          "orth_form": "aber\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aberatis"
+        }
+      ],
+      "conflations": {
+        "aber\u0101tis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30809",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.sg",
+          "analysed_orth_form": "aber\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "aber\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abero"
+        },
+        {
+          "form_id": "31048",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.sg",
+          "analysed_orth_form": "aber\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "aber\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abero"
+        },
+        {
+          "form_id": "31287",
+          "lexeme": "a0200",
+          "cell": "fut.act.ind.1.sg",
+          "analysed_orth_form": "aber\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aber\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abero"
+        }
+      ],
+      "conflations": {
+        "aber\u014d": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.imp.2.sg": {
+      "rows": [
+        {
+          "form_id": "30810",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_128",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        },
+        {
+          "form_id": "31049",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_129",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        },
+        {
+          "form_id": "31288",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_130",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        }
+      ],
+      "conflations": {
+        "abes": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30811",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_128",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        },
+        {
+          "form_id": "31050",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_129",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        },
+        {
+          "form_id": "31289",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.sg",
+          "analysed_orth_form": "abes",
+          "flexeme": "a0200_130",
+          "orth_form": "abes",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abes"
+        }
+      ],
+      "conflations": {
+        "abes": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.inf": {
+      "rows": [
+        {
+          "form_id": "30812",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abesse",
+          "flexeme": "a0200_128",
+          "orth_form": "abesse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesse"
+        },
+        {
+          "form_id": "30825",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abfore",
+          "flexeme": "a0200_128",
+          "orth_form": "abfore",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfore"
+        },
+        {
+          "form_id": "31051",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abesse",
+          "flexeme": "a0200_129",
+          "orth_form": "abesse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesse"
+        },
+        {
+          "form_id": "31064",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abfore",
+          "flexeme": "a0200_129",
+          "orth_form": "abfore",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfore"
+        },
+        {
+          "form_id": "31290",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abesse",
+          "flexeme": "a0200_130",
+          "orth_form": "abesse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesse"
+        },
+        {
+          "form_id": "31303",
+          "lexeme": "a0200",
+          "cell": "prs.act.inf",
+          "analysed_orth_form": "abfore",
+          "flexeme": "a0200_130",
+          "orth_form": "abfore",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfore"
+        }
+      ],
+      "conflations": {
+        "abesse": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abfore": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.1.sg": {
+      "rows": [
+        {
+          "form_id": "30813",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abessem",
+          "flexeme": "a0200_128",
+          "orth_form": "abessem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessem"
+        },
+        {
+          "form_id": "30826",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abforem",
+          "flexeme": "a0200_128",
+          "orth_form": "abforem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforem"
+        },
+        {
+          "form_id": "31052",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abessem",
+          "flexeme": "a0200_129",
+          "orth_form": "abessem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessem"
+        },
+        {
+          "form_id": "31065",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abforem",
+          "flexeme": "a0200_129",
+          "orth_form": "abforem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforem"
+        },
+        {
+          "form_id": "31291",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abessem",
+          "flexeme": "a0200_130",
+          "orth_form": "abessem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessem"
+        },
+        {
+          "form_id": "31304",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abforem",
+          "flexeme": "a0200_130",
+          "orth_form": "abforem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforem"
+        }
+      ],
+      "conflations": {
+        "abessem": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abforem": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.3.pl": {
+      "rows": [
+        {
+          "form_id": "30814",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abessent",
+          "flexeme": "a0200_128",
+          "orth_form": "abessent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessent"
+        },
+        {
+          "form_id": "30827",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abforent",
+          "flexeme": "a0200_128",
+          "orth_form": "abforent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforent"
+        },
+        {
+          "form_id": "31053",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abessent",
+          "flexeme": "a0200_129",
+          "orth_form": "abessent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessent"
+        },
+        {
+          "form_id": "31066",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abforent",
+          "flexeme": "a0200_129",
+          "orth_form": "abforent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforent"
+        },
+        {
+          "form_id": "31292",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abessent",
+          "flexeme": "a0200_130",
+          "orth_form": "abessent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessent"
+        },
+        {
+          "form_id": "31305",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abforent",
+          "flexeme": "a0200_130",
+          "orth_form": "abforent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforent"
+        }
+      ],
+      "conflations": {
+        "abessent": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abforent": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.3.sg": {
+      "rows": [
+        {
+          "form_id": "30815",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abesset",
+          "flexeme": "a0200_128",
+          "orth_form": "abesset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesset"
+        },
+        {
+          "form_id": "30828",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abforet",
+          "flexeme": "a0200_128",
+          "orth_form": "abforet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforet"
+        },
+        {
+          "form_id": "31054",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abesset",
+          "flexeme": "a0200_129",
+          "orth_form": "abesset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesset"
+        },
+        {
+          "form_id": "31067",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abforet",
+          "flexeme": "a0200_129",
+          "orth_form": "abforet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforet"
+        },
+        {
+          "form_id": "31293",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abesset",
+          "flexeme": "a0200_130",
+          "orth_form": "abesset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesset"
+        },
+        {
+          "form_id": "31306",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abforet",
+          "flexeme": "a0200_130",
+          "orth_form": "abforet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abforet"
+        }
+      ],
+      "conflations": {
+        "abesset": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abforet": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.1.pl": {
+      "rows": [
+        {
+          "form_id": "30816",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.pl",
+          "analysed_orth_form": "abess\u0113mus",
+          "flexeme": "a0200_128",
+          "orth_form": "abess\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessemus"
+        },
+        {
+          "form_id": "31055",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.pl",
+          "analysed_orth_form": "abess\u0113mus",
+          "flexeme": "a0200_129",
+          "orth_form": "abess\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessemus"
+        },
+        {
+          "form_id": "31294",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.1.pl",
+          "analysed_orth_form": "abess\u0113mus",
+          "flexeme": "a0200_130",
+          "orth_form": "abess\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessemus"
+        }
+      ],
+      "conflations": {
+        "abess\u0113mus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.2.sg": {
+      "rows": [
+        {
+          "form_id": "30817",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abess\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "abess\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesses"
+        },
+        {
+          "form_id": "30829",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abfor\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "abfor\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfores"
+        },
+        {
+          "form_id": "31056",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abess\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "abess\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesses"
+        },
+        {
+          "form_id": "31068",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abfor\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "abfor\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfores"
+        },
+        {
+          "form_id": "31295",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abess\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "abess\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesses"
+        },
+        {
+          "form_id": "31307",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abfor\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "abfor\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfores"
+        }
+      ],
+      "conflations": {
+        "abess\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abfor\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "iprf.act.sbjv.2.pl": {
+      "rows": [
+        {
+          "form_id": "30818",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.pl",
+          "analysed_orth_form": "abess\u0113tis",
+          "flexeme": "a0200_128",
+          "orth_form": "abess\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessetis"
+        },
+        {
+          "form_id": "31057",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.pl",
+          "analysed_orth_form": "abess\u0113tis",
+          "flexeme": "a0200_129",
+          "orth_form": "abess\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessetis"
+        },
+        {
+          "form_id": "31296",
+          "lexeme": "a0200",
+          "cell": "iprf.act.sbjv.2.pl",
+          "analysed_orth_form": "abess\u0113tis",
+          "flexeme": "a0200_130",
+          "orth_form": "abess\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abessetis"
+        }
+      ],
+      "conflations": {
+        "abess\u0113tis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30819",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.sg",
+          "analysed_orth_form": "abest",
+          "flexeme": "a0200_128",
+          "orth_form": "abest",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abest"
+        },
+        {
+          "form_id": "31058",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.sg",
+          "analysed_orth_form": "abest",
+          "flexeme": "a0200_129",
+          "orth_form": "abest",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abest"
+        },
+        {
+          "form_id": "31297",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.sg",
+          "analysed_orth_form": "abest",
+          "flexeme": "a0200_130",
+          "orth_form": "abest",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abest"
+        }
+      ],
+      "conflations": {
+        "abest": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.imp.2.pl": {
+      "rows": [
+        {
+          "form_id": "30820",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.pl",
+          "analysed_orth_form": "abeste",
+          "flexeme": "a0200_128",
+          "orth_form": "abeste",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abeste"
+        },
+        {
+          "form_id": "31059",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.pl",
+          "analysed_orth_form": "abeste",
+          "flexeme": "a0200_129",
+          "orth_form": "abeste",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abeste"
+        },
+        {
+          "form_id": "31298",
+          "lexeme": "a0200",
+          "cell": "prs.act.imp.2.pl",
+          "analysed_orth_form": "abeste",
+          "flexeme": "a0200_130",
+          "orth_form": "abeste",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abeste"
+        }
+      ],
+      "conflations": {
+        "abeste": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30821",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.pl",
+          "analysed_orth_form": "abestis",
+          "flexeme": "a0200_128",
+          "orth_form": "abestis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestis"
+        },
+        {
+          "form_id": "31060",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.pl",
+          "analysed_orth_form": "abestis",
+          "flexeme": "a0200_129",
+          "orth_form": "abestis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestis"
+        },
+        {
+          "form_id": "31299",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.2.pl",
+          "analysed_orth_form": "abestis",
+          "flexeme": "a0200_130",
+          "orth_form": "abestis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestis"
+        }
+      ],
+      "conflations": {
+        "abestis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.imp.2.sg": {
+      "rows": [
+        {
+          "form_id": "30822",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        },
+        {
+          "form_id": "31061",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        },
+        {
+          "form_id": "31300",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        }
+      ],
+      "conflations": {
+        "abest\u014d": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.imp.3.sg": {
+      "rows": [
+        {
+          "form_id": "30823",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        },
+        {
+          "form_id": "31062",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        },
+        {
+          "form_id": "31301",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.sg",
+          "analysed_orth_form": "abest\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "abest\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abesto"
+        }
+      ],
+      "conflations": {
+        "abest\u014d": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.imp.2.pl": {
+      "rows": [
+        {
+          "form_id": "30824",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.pl",
+          "analysed_orth_form": "abest\u014dte",
+          "flexeme": "a0200_128",
+          "orth_form": "abest\u014dte",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestote"
+        },
+        {
+          "form_id": "31063",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.pl",
+          "analysed_orth_form": "abest\u014dte",
+          "flexeme": "a0200_129",
+          "orth_form": "abest\u014dte",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestote"
+        },
+        {
+          "form_id": "31302",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.2.pl",
+          "analysed_orth_form": "abest\u014dte",
+          "flexeme": "a0200_130",
+          "orth_form": "abest\u014dte",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abestote"
+        }
+      ],
+      "conflations": {
+        "abest\u014dte": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "pprf.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30830",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.sg",
+          "analysed_orth_form": "abfu+eram",
+          "flexeme": "a0200_128",
+          "orth_form": "abfueram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueram"
+        },
+        {
+          "form_id": "31130",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.sg",
+          "analysed_orth_form": "afu+eram",
+          "flexeme": "a0200_129",
+          "orth_form": "afueram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueram"
+        },
+        {
+          "form_id": "31369",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.sg",
+          "analysed_orth_form": "aufu+eram",
+          "flexeme": "a0200_130",
+          "orth_form": "aufueram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueram"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30831",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.pl",
+          "analysed_orth_form": "abfu+erant",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerant"
+        },
+        {
+          "form_id": "31131",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.pl",
+          "analysed_orth_form": "afu+erant",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerant"
+        },
+        {
+          "form_id": "31370",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.pl",
+          "analysed_orth_form": "aufu+erant",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerant",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerant"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30832",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.sg",
+          "analysed_orth_form": "abfu+erat",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerat"
+        },
+        {
+          "form_id": "31132",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.sg",
+          "analysed_orth_form": "afu+erat",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerat"
+        },
+        {
+          "form_id": "31371",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.3.sg",
+          "analysed_orth_form": "aufu+erat",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerat",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerat"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.1.sg": {
+      "rows": [
+        {
+          "form_id": "30833",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.sg",
+          "analysed_orth_form": "abfu+erim",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerim"
+        },
+        {
+          "form_id": "31133",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.sg",
+          "analysed_orth_form": "afu+erim",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerim"
+        },
+        {
+          "form_id": "31372",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.sg",
+          "analysed_orth_form": "aufu+erim",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerim"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30834",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.pl",
+          "analysed_orth_form": "abfu+erimus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerimus"
+        },
+        {
+          "form_id": "31134",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.pl",
+          "analysed_orth_form": "afu+erimus",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerimus"
+        },
+        {
+          "form_id": "31373",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.pl",
+          "analysed_orth_form": "aufu+erimus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerimus"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30835",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.pl",
+          "analysed_orth_form": "abfu+erint",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerint"
+        },
+        {
+          "form_id": "31135",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.pl",
+          "analysed_orth_form": "afu+erint",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerint"
+        },
+        {
+          "form_id": "31374",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.pl",
+          "analysed_orth_form": "aufu+erint",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerint"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.3.pl": {
+      "rows": [
+        {
+          "form_id": "30836",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.pl",
+          "analysed_orth_form": "abfu+erint",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerint"
+        },
+        {
+          "form_id": "31136",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.pl",
+          "analysed_orth_form": "afu+erint",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerint"
+        },
+        {
+          "form_id": "31375",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.pl",
+          "analysed_orth_form": "aufu+erint",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerint"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30837",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.sg",
+          "analysed_orth_form": "abfu+eris",
+          "flexeme": "a0200_128",
+          "orth_form": "abfueris",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueris"
+        },
+        {
+          "form_id": "31137",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.sg",
+          "analysed_orth_form": "afu+eris",
+          "flexeme": "a0200_129",
+          "orth_form": "afueris",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueris"
+        },
+        {
+          "form_id": "31376",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.sg",
+          "analysed_orth_form": "aufu+eris",
+          "flexeme": "a0200_130",
+          "orth_form": "aufueris",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueris"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30838",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.sg",
+          "analysed_orth_form": "abfu+erit",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerit"
+        },
+        {
+          "form_id": "31138",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.sg",
+          "analysed_orth_form": "afu+erit",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerit"
+        },
+        {
+          "form_id": "31377",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.3.sg",
+          "analysed_orth_form": "aufu+erit",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerit"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.3.sg": {
+      "rows": [
+        {
+          "form_id": "30839",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.sg",
+          "analysed_orth_form": "abfu+erit",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerit"
+        },
+        {
+          "form_id": "31139",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.sg",
+          "analysed_orth_form": "afu+erit",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerit"
+        },
+        {
+          "form_id": "31378",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.3.sg",
+          "analysed_orth_form": "aufu+erit",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerit"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30840",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.pl",
+          "analysed_orth_form": "abfu+eritis",
+          "flexeme": "a0200_128",
+          "orth_form": "abfueritis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueritis"
+        },
+        {
+          "form_id": "31140",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.pl",
+          "analysed_orth_form": "afu+eritis",
+          "flexeme": "a0200_129",
+          "orth_form": "afueritis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueritis"
+        },
+        {
+          "form_id": "31379",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.2.pl",
+          "analysed_orth_form": "aufu+eritis",
+          "flexeme": "a0200_130",
+          "orth_form": "aufueritis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueritis"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30841",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "abfu+erunt",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuerunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerunt"
+        },
+        {
+          "form_id": "30896",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "abfu+\u0113re",
+          "flexeme": "a0200_128",
+          "orth_form": "abfu\u0113re",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuere"
+        },
+        {
+          "form_id": "30897",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "abfu+\u0113runt",
+          "flexeme": "a0200_128",
+          "orth_form": "abfu\u0113runt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerunt"
+        },
+        {
+          "form_id": "31141",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "afu+erunt",
+          "flexeme": "a0200_129",
+          "orth_form": "afuerunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerunt"
+        },
+        {
+          "form_id": "31196",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "afu+\u0113re",
+          "flexeme": "a0200_129",
+          "orth_form": "afu\u0113re",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuere"
+        },
+        {
+          "form_id": "31197",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "afu+\u0113runt",
+          "flexeme": "a0200_129",
+          "orth_form": "afu\u0113runt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerunt"
+        },
+        {
+          "form_id": "31380",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "aufu+erunt",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuerunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerunt"
+        },
+        {
+          "form_id": "31435",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "aufu+\u0113re",
+          "flexeme": "a0200_130",
+          "orth_form": "aufu\u0113re",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuere"
+        },
+        {
+          "form_id": "31436",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.pl",
+          "analysed_orth_form": "aufu+\u0113runt",
+          "flexeme": "a0200_130",
+          "orth_form": "aufu\u0113runt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerunt"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30842",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.pl",
+          "analysed_orth_form": "abfu+er\u0101mus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueramus"
+        },
+        {
+          "form_id": "31142",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.pl",
+          "analysed_orth_form": "afu+er\u0101mus",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueramus"
+        },
+        {
+          "form_id": "31381",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.1.pl",
+          "analysed_orth_form": "aufu+er\u0101mus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u0101mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueramus"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30843",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.sg",
+          "analysed_orth_form": "abfu+er\u0101s",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueras"
+        },
+        {
+          "form_id": "31143",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.sg",
+          "analysed_orth_form": "afu+er\u0101s",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueras"
+        },
+        {
+          "form_id": "31382",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.sg",
+          "analysed_orth_form": "aufu+er\u0101s",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueras"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30844",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.pl",
+          "analysed_orth_form": "abfu+er\u0101tis",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueratis"
+        },
+        {
+          "form_id": "31144",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.pl",
+          "analysed_orth_form": "afu+er\u0101tis",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueratis"
+        },
+        {
+          "form_id": "31383",
+          "lexeme": "a0200",
+          "cell": "pprf.act.ind.2.pl",
+          "analysed_orth_form": "aufu+er\u0101tis",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u0101tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueratis"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.1.pl": {
+      "rows": [
+        {
+          "form_id": "30845",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.pl",
+          "analysed_orth_form": "abfu+er\u012bmus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuerimus"
+        },
+        {
+          "form_id": "31145",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.pl",
+          "analysed_orth_form": "afu+er\u012bmus",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuerimus"
+        },
+        {
+          "form_id": "31384",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.1.pl",
+          "analysed_orth_form": "aufu+er\u012bmus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuerimus"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.2.sg": {
+      "rows": [
+        {
+          "form_id": "30846",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.sg",
+          "analysed_orth_form": "abfu+er\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueris"
+        },
+        {
+          "form_id": "31146",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.sg",
+          "analysed_orth_form": "afu+er\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueris"
+        },
+        {
+          "form_id": "31385",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.sg",
+          "analysed_orth_form": "aufu+er\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueris"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.sbjv.2.pl": {
+      "rows": [
+        {
+          "form_id": "30847",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.pl",
+          "analysed_orth_form": "abfu+er\u012btis",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfueritis"
+        },
+        {
+          "form_id": "31147",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.pl",
+          "analysed_orth_form": "afu+er\u012btis",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afueritis"
+        },
+        {
+          "form_id": "31386",
+          "lexeme": "a0200",
+          "cell": "prf.act.sbjv.2.pl",
+          "analysed_orth_form": "aufu+er\u012btis",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufueritis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fprf.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30848",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.sg",
+          "analysed_orth_form": "abfu+er\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuer\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuero"
+        },
+        {
+          "form_id": "31148",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.sg",
+          "analysed_orth_form": "afu+er\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "afuer\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuero"
+        },
+        {
+          "form_id": "31387",
+          "lexeme": "a0200",
+          "cell": "fprf.act.ind.1.sg",
+          "analysed_orth_form": "aufu+er\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuer\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuero"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30849",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.pl",
+          "analysed_orth_form": "abfu+imus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuimus"
+        },
+        {
+          "form_id": "31149",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.pl",
+          "analysed_orth_form": "afu+imus",
+          "flexeme": "a0200_129",
+          "orth_form": "afuimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuimus"
+        },
+        {
+          "form_id": "31388",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.pl",
+          "analysed_orth_form": "aufu+imus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuimus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuimus"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.inf": {
+      "rows": [
+        {
+          "form_id": "30850",
+          "lexeme": "a0200",
+          "cell": "prf.act.inf",
+          "analysed_orth_form": "abfu+isse",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuisse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuisse"
+        },
+        {
+          "form_id": "31150",
+          "lexeme": "a0200",
+          "cell": "prf.act.inf",
+          "analysed_orth_form": "afu+isse",
+          "flexeme": "a0200_129",
+          "orth_form": "afuisse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuisse"
+        },
+        {
+          "form_id": "31389",
+          "lexeme": "a0200",
+          "cell": "prf.act.inf",
+          "analysed_orth_form": "aufu+isse",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuisse",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuisse"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.1.sg": {
+      "rows": [
+        {
+          "form_id": "30851",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.sg",
+          "analysed_orth_form": "abfu+issem",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuissem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuissem"
+        },
+        {
+          "form_id": "31151",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.sg",
+          "analysed_orth_form": "afu+issem",
+          "flexeme": "a0200_129",
+          "orth_form": "afuissem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuissem"
+        },
+        {
+          "form_id": "31390",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.sg",
+          "analysed_orth_form": "aufu+issem",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuissem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuissem"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.3.pl": {
+      "rows": [
+        {
+          "form_id": "30852",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.pl",
+          "analysed_orth_form": "abfu+issent",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuissent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuissent"
+        },
+        {
+          "form_id": "31152",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.pl",
+          "analysed_orth_form": "afu+issent",
+          "flexeme": "a0200_129",
+          "orth_form": "afuissent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuissent"
+        },
+        {
+          "form_id": "31391",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.pl",
+          "analysed_orth_form": "aufu+issent",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuissent",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuissent"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.3.sg": {
+      "rows": [
+        {
+          "form_id": "30853",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.sg",
+          "analysed_orth_form": "abfu+isset",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuisset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuisset"
+        },
+        {
+          "form_id": "31153",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.sg",
+          "analysed_orth_form": "afu+isset",
+          "flexeme": "a0200_129",
+          "orth_form": "afuisset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuisset"
+        },
+        {
+          "form_id": "31392",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.3.sg",
+          "analysed_orth_form": "aufu+isset",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuisset",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuisset"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.1.pl": {
+      "rows": [
+        {
+          "form_id": "30854",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.pl",
+          "analysed_orth_form": "abfu+iss\u0113mus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuiss\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuissemus"
+        },
+        {
+          "form_id": "31154",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.pl",
+          "analysed_orth_form": "afu+iss\u0113mus",
+          "flexeme": "a0200_129",
+          "orth_form": "afuiss\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuissemus"
+        },
+        {
+          "form_id": "31393",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.1.pl",
+          "analysed_orth_form": "aufu+iss\u0113mus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuiss\u0113mus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuissemus"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.2.sg": {
+      "rows": [
+        {
+          "form_id": "30855",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.sg",
+          "analysed_orth_form": "abfu+iss\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuiss\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuisses"
+        },
+        {
+          "form_id": "31155",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.sg",
+          "analysed_orth_form": "afu+iss\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "afuiss\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuisses"
+        },
+        {
+          "form_id": "31394",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.sg",
+          "analysed_orth_form": "aufu+iss\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuiss\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuisses"
+        }
+      ],
+      "conflations": {}
+    },
+    "pprf.act.sbjv.2.pl": {
+      "rows": [
+        {
+          "form_id": "30856",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.pl",
+          "analysed_orth_form": "abfu+iss\u0113tis",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuiss\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuissetis"
+        },
+        {
+          "form_id": "31156",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.pl",
+          "analysed_orth_form": "afu+iss\u0113tis",
+          "flexeme": "a0200_129",
+          "orth_form": "afuiss\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuissetis"
+        },
+        {
+          "form_id": "31395",
+          "lexeme": "a0200",
+          "cell": "pprf.act.sbjv.2.pl",
+          "analysed_orth_form": "aufu+iss\u0113tis",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuiss\u0113tis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuissetis"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.2.pl": {
+      "rows": [
+        {
+          "form_id": "30857",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.pl",
+          "analysed_orth_form": "abfu+istis",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuistis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuistis"
+        },
+        {
+          "form_id": "31157",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.pl",
+          "analysed_orth_form": "afu+istis",
+          "flexeme": "a0200_129",
+          "orth_form": "afuistis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuistis"
+        },
+        {
+          "form_id": "31396",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.pl",
+          "analysed_orth_form": "aufu+istis",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuistis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuistis"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.2.sg": {
+      "rows": [
+        {
+          "form_id": "30858",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.sg",
+          "analysed_orth_form": "abfu+ist\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuist\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuisti"
+        },
+        {
+          "form_id": "31158",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.sg",
+          "analysed_orth_form": "afu+ist\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afuist\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuisti"
+        },
+        {
+          "form_id": "31397",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.2.sg",
+          "analysed_orth_form": "aufu+ist\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuist\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuisti"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.3.sg": {
+      "rows": [
+        {
+          "form_id": "30859",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.sg",
+          "analysed_orth_form": "abfu+it",
+          "flexeme": "a0200_128",
+          "orth_form": "abfuit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuit"
+        },
+        {
+          "form_id": "31159",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.sg",
+          "analysed_orth_form": "afu+it",
+          "flexeme": "a0200_129",
+          "orth_form": "afuit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuit"
+        },
+        {
+          "form_id": "31398",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.3.sg",
+          "analysed_orth_form": "aufu+it",
+          "flexeme": "a0200_130",
+          "orth_form": "aufuit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuit"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.n.pl": {
+      "rows": [
+        {
+          "form_id": "30860",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "abfut+\u016bra",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31160",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "afut+\u016bra",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31399",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "aufut+\u016bra",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.f.sg": {
+      "rows": [
+        {
+          "form_id": "30861",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "abfut+\u016bra",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31161",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "afut+\u016bra",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31400",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "aufut+\u016bra",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.n.pl": {
+      "rows": [
+        {
+          "form_id": "30862",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "abfut+\u016bra",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31162",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "afut+\u016bra",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31401",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "aufut+\u016bra",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.f.sg": {
+      "rows": [
+        {
+          "form_id": "30863",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "abfut+\u016bra",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31163",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "afut+\u016bra",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31402",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "aufut+\u016bra",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.n.pl": {
+      "rows": [
+        {
+          "form_id": "30864",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "abfut+\u016bra",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31164",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "afut+\u016bra",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31403",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "aufut+\u016bra",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bra",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.f.sg": {
+      "rows": [
+        {
+          "form_id": "30865",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "abfut+\u016brae",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturae"
+        },
+        {
+          "form_id": "31165",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "afut+\u016brae",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturae"
+        },
+        {
+          "form_id": "31404",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "aufut+\u016brae",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturae"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.f.sg": {
+      "rows": [
+        {
+          "form_id": "30866",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "abfut+\u016brae",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturae"
+        },
+        {
+          "form_id": "31166",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "afut+\u016brae",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturae"
+        },
+        {
+          "form_id": "31405",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "aufut+\u016brae",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturae"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.f.pl": {
+      "rows": [
+        {
+          "form_id": "30867",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "abfut+\u016brae",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturae"
+        },
+        {
+          "form_id": "31167",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "afut+\u016brae",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturae"
+        },
+        {
+          "form_id": "31406",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "aufut+\u016brae",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturae"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.f.pl": {
+      "rows": [
+        {
+          "form_id": "30868",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "abfut+\u016brae",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturae"
+        },
+        {
+          "form_id": "31168",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "afut+\u016brae",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturae"
+        },
+        {
+          "form_id": "31407",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "aufut+\u016brae",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brae",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturae"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.f.sg": {
+      "rows": [
+        {
+          "form_id": "30869",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "abfut+\u016bram",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturam"
+        },
+        {
+          "form_id": "31169",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "afut+\u016bram",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturam"
+        },
+        {
+          "form_id": "31408",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "aufut+\u016bram",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bram",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturam"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.m.sg": {
+      "rows": [
+        {
+          "form_id": "30870",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "abfut+\u016bre",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016bre",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuture"
+        },
+        {
+          "form_id": "31170",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "afut+\u016bre",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016bre",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuture"
+        },
+        {
+          "form_id": "31409",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "aufut+\u016bre",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016bre",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuture"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.m.sg": {
+      "rows": [
+        {
+          "form_id": "30871",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "abfut+\u016brum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturum"
+        },
+        {
+          "form_id": "31171",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "afut+\u016brum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturum"
+        },
+        {
+          "form_id": "31410",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "aufut+\u016brum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.n.sg": {
+      "rows": [
+        {
+          "form_id": "30872",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "abfut+\u016brum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturum"
+        },
+        {
+          "form_id": "31172",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "afut+\u016brum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturum"
+        },
+        {
+          "form_id": "31411",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "aufut+\u016brum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.n.sg": {
+      "rows": [
+        {
+          "form_id": "30873",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "abfut+\u016brum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturum"
+        },
+        {
+          "form_id": "31173",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "afut+\u016brum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturum"
+        },
+        {
+          "form_id": "31412",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "aufut+\u016brum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.n.sg": {
+      "rows": [
+        {
+          "form_id": "30874",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "abfut+\u016brum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturum"
+        },
+        {
+          "form_id": "31174",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "afut+\u016brum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturum"
+        },
+        {
+          "form_id": "31413",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "aufut+\u016brum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.m.sg": {
+      "rows": [
+        {
+          "form_id": "30875",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "abfut+\u016brus",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016brus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturus"
+        },
+        {
+          "form_id": "31175",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "afut+\u016brus",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016brus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturus"
+        },
+        {
+          "form_id": "31414",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "aufut+\u016brus",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016brus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturus"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.f.sg": {
+      "rows": [
+        {
+          "form_id": "30876",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "abfut+\u016br\u0101",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u0101",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfutura"
+        },
+        {
+          "form_id": "31176",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "afut+\u016br\u0101",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u0101",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afutura"
+        },
+        {
+          "form_id": "31415",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "aufut+\u016br\u0101",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u0101",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufutura"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.f.pl": {
+      "rows": [
+        {
+          "form_id": "30877",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "abfut+\u016br\u0101rum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u0101rum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturarum"
+        },
+        {
+          "form_id": "31177",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "afut+\u016br\u0101rum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u0101rum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturarum"
+        },
+        {
+          "form_id": "31416",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "aufut+\u016br\u0101rum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u0101rum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturarum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.f.pl": {
+      "rows": [
+        {
+          "form_id": "30878",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "abfut+\u016br\u0101s",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturas"
+        },
+        {
+          "form_id": "31178",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "afut+\u016br\u0101s",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturas"
+        },
+        {
+          "form_id": "31417",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "aufut+\u016br\u0101s",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u0101s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturas"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.m.sg": {
+      "rows": [
+        {
+          "form_id": "30879",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "abfut+\u016br\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturi"
+        },
+        {
+          "form_id": "31179",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "afut+\u016br\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturi"
+        },
+        {
+          "form_id": "31418",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "aufut+\u016br\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturi"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.n.sg": {
+      "rows": [
+        {
+          "form_id": "30880",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "abfut+\u016br\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturi"
+        },
+        {
+          "form_id": "31180",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "afut+\u016br\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturi"
+        },
+        {
+          "form_id": "31419",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "aufut+\u016br\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturi"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.nom.m.pl": {
+      "rows": [
+        {
+          "form_id": "30881",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturi"
+        },
+        {
+          "form_id": "31181",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "afut+\u016br\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturi"
+        },
+        {
+          "form_id": "31420",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturi"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.voc.m.pl": {
+      "rows": [
+        {
+          "form_id": "30882",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturi"
+        },
+        {
+          "form_id": "31182",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "afut+\u016br\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturi"
+        },
+        {
+          "form_id": "31421",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturi"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.f.pl": {
+      "rows": [
+        {
+          "form_id": "30883",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31183",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31422",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.m.pl": {
+      "rows": [
+        {
+          "form_id": "30884",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31184",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31423",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.n.pl": {
+      "rows": [
+        {
+          "form_id": "30885",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31185",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31424",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.f.pl": {
+      "rows": [
+        {
+          "form_id": "30886",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31186",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31425",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.m.pl": {
+      "rows": [
+        {
+          "form_id": "30887",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31187",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31426",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.n.pl": {
+      "rows": [
+        {
+          "form_id": "30888",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "abfut+\u016br\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturis"
+        },
+        {
+          "form_id": "31188",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "afut+\u016br\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturis"
+        },
+        {
+          "form_id": "31427",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "aufut+\u016br\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturis"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.m.sg": {
+      "rows": [
+        {
+          "form_id": "30889",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "abfut+\u016br\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturo"
+        },
+        {
+          "form_id": "31189",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "afut+\u016br\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturo"
+        },
+        {
+          "form_id": "31428",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "aufut+\u016br\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturo"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.abl.n.sg": {
+      "rows": [
+        {
+          "form_id": "30890",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "abfut+\u016br\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturo"
+        },
+        {
+          "form_id": "31190",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "afut+\u016br\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturo"
+        },
+        {
+          "form_id": "31429",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "aufut+\u016br\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturo"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.m.sg": {
+      "rows": [
+        {
+          "form_id": "30891",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "abfut+\u016br\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturo"
+        },
+        {
+          "form_id": "31191",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "afut+\u016br\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturo"
+        },
+        {
+          "form_id": "31430",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "aufut+\u016br\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturo"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.dat.n.sg": {
+      "rows": [
+        {
+          "form_id": "30892",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "abfut+\u016br\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturo"
+        },
+        {
+          "form_id": "31192",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "afut+\u016br\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturo"
+        },
+        {
+          "form_id": "31431",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "aufut+\u016br\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturo"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.m.pl": {
+      "rows": [
+        {
+          "form_id": "30893",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u014drum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturorum"
+        },
+        {
+          "form_id": "31193",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "afut+\u016br\u014drum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturorum"
+        },
+        {
+          "form_id": "31432",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u014drum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturorum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.gen.n.pl": {
+      "rows": [
+        {
+          "form_id": "30894",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "abfut+\u016br\u014drum",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturorum"
+        },
+        {
+          "form_id": "31194",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "afut+\u016br\u014drum",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturorum"
+        },
+        {
+          "form_id": "31433",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "aufut+\u016br\u014drum",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014drum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturorum"
+        }
+      ],
+      "conflations": {}
+    },
+    "fut.act.ptcp.acc.m.pl": {
+      "rows": [
+        {
+          "form_id": "30895",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "abfut+\u016br\u014ds",
+          "flexeme": "a0200_128",
+          "orth_form": "abfut\u016br\u014ds",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfuturos"
+        },
+        {
+          "form_id": "31195",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "afut+\u016br\u014ds",
+          "flexeme": "a0200_129",
+          "orth_form": "afut\u016br\u014ds",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afuturos"
+        },
+        {
+          "form_id": "31434",
+          "lexeme": "a0200",
+          "cell": "fut.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "aufut+\u016br\u014ds",
+          "flexeme": "a0200_130",
+          "orth_form": "aufut\u016br\u014ds",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufuturos"
+        }
+      ],
+      "conflations": {}
+    },
+    "prf.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30898",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.sg",
+          "analysed_orth_form": "abfu+\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "abfu\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "abfui"
+        },
+        {
+          "form_id": "31198",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.sg",
+          "analysed_orth_form": "afu+\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "afu\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "afui"
+        },
+        {
+          "form_id": "31437",
+          "lexeme": "a0200",
+          "cell": "prf.act.ind.1.sg",
+          "analysed_orth_form": "aufu+\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "aufu\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "aufui"
+        }
+      ],
+      "conflations": {}
+    },
+    "prs.act.ptcp.acc.n.pl": {
+      "rows": [
+        {
+          "form_id": "30899",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_128",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "30910",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_128",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31069",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_129",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31080",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_129",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31308",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_130",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31319",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_130",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        }
+      ],
+      "conflations": {
+        "absenta": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentia": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.n.pl": {
+      "rows": [
+        {
+          "form_id": "30900",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_128",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "30911",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_128",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31070",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_129",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31081",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_129",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31309",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_130",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31320",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_130",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        }
+      ],
+      "conflations": {
+        "absenta": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentia": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.n.pl": {
+      "rows": [
+        {
+          "form_id": "30901",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_128",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "30912",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_128",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31071",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_129",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31082",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_129",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        },
+        {
+          "form_id": "31310",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absenta",
+          "flexeme": "a0200_130",
+          "orth_form": "absenta",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenta"
+        },
+        {
+          "form_id": "31321",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.pl",
+          "analysed_orth_form": "absentia",
+          "flexeme": "a0200_130",
+          "orth_form": "absentia",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentia"
+        }
+      ],
+      "conflations": {
+        "absenta": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentia": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.f.sg": {
+      "rows": [
+        {
+          "form_id": "30902",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_128",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "30907",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_128",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31072",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_129",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31077",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_129",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31311",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_130",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31316",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_130",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absente": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absenti": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.m.sg": {
+      "rows": [
+        {
+          "form_id": "30903",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_128",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "30908",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_128",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31073",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_129",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31078",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_129",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31312",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_130",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31317",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_130",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absente": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absenti": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.n.sg": {
+      "rows": [
+        {
+          "form_id": "30904",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_128",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "30909",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_128",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31074",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_129",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31079",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_129",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31313",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absente",
+          "flexeme": "a0200_130",
+          "orth_form": "absente",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absente"
+        },
+        {
+          "form_id": "31318",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.sg",
+          "analysed_orth_form": "absenti",
+          "flexeme": "a0200_130",
+          "orth_form": "absenti",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absente": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absenti": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.acc.f.sg": {
+      "rows": [
+        {
+          "form_id": "30905",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_128",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        },
+        {
+          "form_id": "31075",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_129",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        },
+        {
+          "form_id": "31314",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_130",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        }
+      ],
+      "conflations": {
+        "absentem": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.acc.m.sg": {
+      "rows": [
+        {
+          "form_id": "30906",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_128",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        },
+        {
+          "form_id": "31076",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_129",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        },
+        {
+          "form_id": "31315",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.sg",
+          "analysed_orth_form": "absentem",
+          "flexeme": "a0200_130",
+          "orth_form": "absentem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentem"
+        }
+      ],
+      "conflations": {
+        "absentem": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.f.pl": {
+      "rows": [
+        {
+          "form_id": "30913",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31083",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31322",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.m.pl": {
+      "rows": [
+        {
+          "form_id": "30914",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31084",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31323",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.abl.n.pl": {
+      "rows": [
+        {
+          "form_id": "30915",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31085",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31324",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.abl.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.f.pl": {
+      "rows": [
+        {
+          "form_id": "30916",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31086",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31325",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.m.pl": {
+      "rows": [
+        {
+          "form_id": "30917",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31087",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31326",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.n.pl": {
+      "rows": [
+        {
+          "form_id": "30918",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_128",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31088",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_129",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        },
+        {
+          "form_id": "31327",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.pl",
+          "analysed_orth_form": "absentibus",
+          "flexeme": "a0200_130",
+          "orth_form": "absentibus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentibus"
+        }
+      ],
+      "conflations": {
+        "absentibus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.f.sg": {
+      "rows": [
+        {
+          "form_id": "30919",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_128",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31089",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_129",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31328",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_130",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        }
+      ],
+      "conflations": {
+        "absentis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.m.sg": {
+      "rows": [
+        {
+          "form_id": "30920",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_128",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31090",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_129",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31329",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_130",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        }
+      ],
+      "conflations": {
+        "absentis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.n.sg": {
+      "rows": [
+        {
+          "form_id": "30921",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_128",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31091",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_129",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31330",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.sg",
+          "analysed_orth_form": "absentis",
+          "flexeme": "a0200_130",
+          "orth_form": "absentis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        }
+      ],
+      "conflations": {
+        "absentis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.f.pl": {
+      "rows": [
+        {
+          "form_id": "30922",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_128",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "30925",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_128",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31092",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_129",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31095",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_129",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31331",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_130",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31334",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.f.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_130",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        }
+      ],
+      "conflations": {
+        "absentium": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentum": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.m.pl": {
+      "rows": [
+        {
+          "form_id": "30923",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_128",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "30926",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_128",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31093",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_129",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31096",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_129",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31332",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_130",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31335",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.m.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_130",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        }
+      ],
+      "conflations": {
+        "absentium": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentum": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.gen.n.pl": {
+      "rows": [
+        {
+          "form_id": "30924",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_128",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "30927",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_128",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31094",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_129",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31097",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_129",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        },
+        {
+          "form_id": "31333",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentium",
+          "flexeme": "a0200_130",
+          "orth_form": "absentium",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentium"
+        },
+        {
+          "form_id": "31336",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.gen.n.pl",
+          "analysed_orth_form": "absentum",
+          "flexeme": "a0200_130",
+          "orth_form": "absentum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentum"
+        }
+      ],
+      "conflations": {
+        "absentium": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absentum": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.acc.f.pl": {
+      "rows": [
+        {
+          "form_id": "30928",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "30937",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31098",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31107",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31337",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31346",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.f.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absent\u012bs": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.acc.m.pl": {
+      "rows": [
+        {
+          "form_id": "30929",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "30938",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31099",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31108",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        },
+        {
+          "form_id": "31338",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31347",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.m.pl",
+          "analysed_orth_form": "absent\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentis"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absent\u012bs": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.f.pl": {
+      "rows": [
+        {
+          "form_id": "30930",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31100",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31339",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.m.pl": {
+      "rows": [
+        {
+          "form_id": "30931",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31101",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31340",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.f.pl": {
+      "rows": [
+        {
+          "form_id": "30932",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31102",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31341",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.m.pl": {
+      "rows": [
+        {
+          "form_id": "30933",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31103",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        },
+        {
+          "form_id": "31342",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.pl",
+          "analysed_orth_form": "absent\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absentes"
+        }
+      ],
+      "conflations": {
+        "absent\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.f.sg": {
+      "rows": [
+        {
+          "form_id": "30934",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31104",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31343",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.f.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absent\u012b": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.m.sg": {
+      "rows": [
+        {
+          "form_id": "30935",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31105",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31344",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.m.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absent\u012b": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.dat.n.sg": {
+      "rows": [
+        {
+          "form_id": "30936",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_128",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31106",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_129",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        },
+        {
+          "form_id": "31345",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.dat.n.sg",
+          "analysed_orth_form": "absent\u012b",
+          "flexeme": "a0200_130",
+          "orth_form": "absent\u012b",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absenti"
+        }
+      ],
+      "conflations": {
+        "absent\u012b": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.1.sg": {
+      "rows": [
+        {
+          "form_id": "30939",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absiem",
+          "flexeme": "a0200_128",
+          "orth_form": "absiem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiem"
+        },
+        {
+          "form_id": "30942",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absim",
+          "flexeme": "a0200_128",
+          "orth_form": "absim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absim"
+        },
+        {
+          "form_id": "31109",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absiem",
+          "flexeme": "a0200_129",
+          "orth_form": "absiem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiem"
+        },
+        {
+          "form_id": "31112",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absim",
+          "flexeme": "a0200_129",
+          "orth_form": "absim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absim"
+        },
+        {
+          "form_id": "31348",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absiem",
+          "flexeme": "a0200_130",
+          "orth_form": "absiem",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiem"
+        },
+        {
+          "form_id": "31351",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.sg",
+          "analysed_orth_form": "absim",
+          "flexeme": "a0200_130",
+          "orth_form": "absim",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absim"
+        }
+      ],
+      "conflations": {
+        "absiem": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absim": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.3.pl": {
+      "rows": [
+        {
+          "form_id": "30940",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absient",
+          "flexeme": "a0200_128",
+          "orth_form": "absient",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absient"
+        },
+        {
+          "form_id": "30943",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absint",
+          "flexeme": "a0200_128",
+          "orth_form": "absint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absint"
+        },
+        {
+          "form_id": "31110",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absient",
+          "flexeme": "a0200_129",
+          "orth_form": "absient",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absient"
+        },
+        {
+          "form_id": "31113",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absint",
+          "flexeme": "a0200_129",
+          "orth_form": "absint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absint"
+        },
+        {
+          "form_id": "31349",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absient",
+          "flexeme": "a0200_130",
+          "orth_form": "absient",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absient"
+        },
+        {
+          "form_id": "31352",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.pl",
+          "analysed_orth_form": "absint",
+          "flexeme": "a0200_130",
+          "orth_form": "absint",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absint"
+        }
+      ],
+      "conflations": {
+        "absient": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absint": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.3.sg": {
+      "rows": [
+        {
+          "form_id": "30941",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absiet",
+          "flexeme": "a0200_128",
+          "orth_form": "absiet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiet"
+        },
+        {
+          "form_id": "30944",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absit",
+          "flexeme": "a0200_128",
+          "orth_form": "absit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absit"
+        },
+        {
+          "form_id": "31111",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absiet",
+          "flexeme": "a0200_129",
+          "orth_form": "absiet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiet"
+        },
+        {
+          "form_id": "31114",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absit",
+          "flexeme": "a0200_129",
+          "orth_form": "absit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absit"
+        },
+        {
+          "form_id": "31350",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absiet",
+          "flexeme": "a0200_130",
+          "orth_form": "absiet",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absiet"
+        },
+        {
+          "form_id": "31353",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.3.sg",
+          "analysed_orth_form": "absit",
+          "flexeme": "a0200_130",
+          "orth_form": "absit",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absit"
+        }
+      ],
+      "conflations": {
+        "absiet": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "absit": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.2.sg": {
+      "rows": [
+        {
+          "form_id": "30945",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "absi\u0113s",
+          "flexeme": "a0200_128",
+          "orth_form": "absi\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absies"
+        },
+        {
+          "form_id": "30958",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "abs\u012bs",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absis"
+        },
+        {
+          "form_id": "31115",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "absi\u0113s",
+          "flexeme": "a0200_129",
+          "orth_form": "absi\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absies"
+        },
+        {
+          "form_id": "31128",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "abs\u012bs",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absis"
+        },
+        {
+          "form_id": "31354",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "absi\u0113s",
+          "flexeme": "a0200_130",
+          "orth_form": "absi\u0113s",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absies"
+        },
+        {
+          "form_id": "31367",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.sg",
+          "analysed_orth_form": "abs\u012bs",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u012bs",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absis"
+        }
+      ],
+      "conflations": {
+        "absi\u0113s": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ],
+        "abs\u012bs": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.1.sg": {
+      "rows": [
+        {
+          "form_id": "30946",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.sg",
+          "analysed_orth_form": "absum",
+          "flexeme": "a0200_128",
+          "orth_form": "absum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absum"
+        },
+        {
+          "form_id": "31116",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.sg",
+          "analysed_orth_form": "absum",
+          "flexeme": "a0200_129",
+          "orth_form": "absum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absum"
+        },
+        {
+          "form_id": "31355",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.sg",
+          "analysed_orth_form": "absum",
+          "flexeme": "a0200_130",
+          "orth_form": "absum",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absum"
+        }
+      ],
+      "conflations": {
+        "absum": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.1.pl": {
+      "rows": [
+        {
+          "form_id": "30947",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.pl",
+          "analysed_orth_form": "absumus",
+          "flexeme": "a0200_128",
+          "orth_form": "absumus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absumus"
+        },
+        {
+          "form_id": "31117",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.pl",
+          "analysed_orth_form": "absumus",
+          "flexeme": "a0200_129",
+          "orth_form": "absumus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absumus"
+        },
+        {
+          "form_id": "31356",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.1.pl",
+          "analysed_orth_form": "absumus",
+          "flexeme": "a0200_130",
+          "orth_form": "absumus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absumus"
+        }
+      ],
+      "conflations": {
+        "absumus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ind.3.pl": {
+      "rows": [
+        {
+          "form_id": "30948",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.pl",
+          "analysed_orth_form": "absunt",
+          "flexeme": "a0200_128",
+          "orth_form": "absunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunt"
+        },
+        {
+          "form_id": "31118",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.pl",
+          "analysed_orth_form": "absunt",
+          "flexeme": "a0200_129",
+          "orth_form": "absunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunt"
+        },
+        {
+          "form_id": "31357",
+          "lexeme": "a0200",
+          "cell": "prs.act.ind.3.pl",
+          "analysed_orth_form": "absunt",
+          "flexeme": "a0200_130",
+          "orth_form": "absunt",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunt"
+        }
+      ],
+      "conflations": {
+        "absunt": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "fut.act.imp.3.pl": {
+      "rows": [
+        {
+          "form_id": "30949",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.pl",
+          "analysed_orth_form": "absunt\u014d",
+          "flexeme": "a0200_128",
+          "orth_form": "absunt\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunto"
+        },
+        {
+          "form_id": "31119",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.pl",
+          "analysed_orth_form": "absunt\u014d",
+          "flexeme": "a0200_129",
+          "orth_form": "absunt\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunto"
+        },
+        {
+          "form_id": "31358",
+          "lexeme": "a0200",
+          "cell": "fut.act.imp.3.pl",
+          "analysed_orth_form": "absunt\u014d",
+          "flexeme": "a0200_130",
+          "orth_form": "absunt\u014d",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absunto"
+        }
+      ],
+      "conflations": {
+        "absunt\u014d": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.acc.n.sg": {
+      "rows": [
+        {
+          "form_id": "30950",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31120",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31359",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.acc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.f.sg": {
+      "rows": [
+        {
+          "form_id": "30951",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31121",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31360",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.m.sg": {
+      "rows": [
+        {
+          "form_id": "30952",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31122",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31361",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.nom.n.sg": {
+      "rows": [
+        {
+          "form_id": "30953",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31123",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31362",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.nom.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.f.sg": {
+      "rows": [
+        {
+          "form_id": "30954",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31124",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31363",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.f.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.m.sg": {
+      "rows": [
+        {
+          "form_id": "30955",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31125",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31364",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.m.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.ptcp.voc.n.sg": {
+      "rows": [
+        {
+          "form_id": "30956",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31126",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        },
+        {
+          "form_id": "31365",
+          "lexeme": "a0200",
+          "cell": "prs.act.ptcp.voc.n.sg",
+          "analysed_orth_form": "abs\u0113ns",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u0113ns",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absens"
+        }
+      ],
+      "conflations": {
+        "abs\u0113ns": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.1.pl": {
+      "rows": [
+        {
+          "form_id": "30957",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.pl",
+          "analysed_orth_form": "abs\u012bmus",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absimus"
+        },
+        {
+          "form_id": "31127",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.pl",
+          "analysed_orth_form": "abs\u012bmus",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absimus"
+        },
+        {
+          "form_id": "31366",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.1.pl",
+          "analysed_orth_form": "abs\u012bmus",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u012bmus",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absimus"
+        }
+      ],
+      "conflations": {
+        "abs\u012bmus": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    },
+    "prs.act.sbjv.2.pl": {
+      "rows": [
+        {
+          "form_id": "30959",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.pl",
+          "analysed_orth_form": "abs\u012btis",
+          "flexeme": "a0200_128",
+          "orth_form": "abs\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absitis"
+        },
+        {
+          "form_id": "31129",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.pl",
+          "analysed_orth_form": "abs\u012btis",
+          "flexeme": "a0200_129",
+          "orth_form": "abs\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absitis"
+        },
+        {
+          "form_id": "31368",
+          "lexeme": "a0200",
+          "cell": "prs.act.sbjv.2.pl",
+          "analysed_orth_form": "abs\u012btis",
+          "flexeme": "a0200_130",
+          "orth_form": "abs\u012btis",
+          "lila_id_lemma": "87040",
+          "form_normalized": "absitis"
+        }
+      ],
+      "conflations": {
+        "abs\u012btis": [
+          "a0200_128",
+          "a0200_129",
+          "a0200_130"
+        ]
+      }
+    }
+  }
+}

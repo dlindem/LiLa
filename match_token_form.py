@@ -49,7 +49,7 @@ with open("data/ITTB_verb_tokendata_for_upload.csv") as file:
 
             if len(lemmadict[lila_lemma]) == 0:
                 print("Did not find this lemma on Wikibase.")
-                with open('data/lemma_not_found_lexemedict_v2.csv', 'a') as outfile:
+                with open('data/lemma_not_found_lexemedict_v2c.csv', 'a') as outfile:
                     outfile.write(f"{lila_lemma}\n")
                     continue
 
@@ -78,12 +78,12 @@ with open("data/ITTB_verb_tokendata_for_upload.csv") as file:
                         matchcount += 1
                         print(
                             f"\nMatching token: {row['tokenLabel']} {token_features}\nMatching form:  {formdata['form_rep']['value']} {form_features}")
-                        with open('data/matching_tokens_lexemedict_v2.csv', 'a') as outfile:
+                        with open('data/matching_tokens_lexemedict_v2c.csv', 'a') as outfile:
                             outfile.write(
                                 f"{row['token']}\t{row['tokenLabel']}\t{token_items[row['token']]}\t{formdata['form']['value']}\t{lila_lemma}\t{'|'.join(token_features)}\n")
 
             if not match_for_token:
-                with open('data/not_matching_tokens_lexemedict_v2.csv', 'a') as outfile:
+                with open('data/not_matching_tokens_lexemedict_v2c.csv', 'a') as outfile:
                     outfile.write(f"{row['token']}\t{row['tokenLabel']}\tNO MATCH\t{lila_lemma}\t{'|'.join(token_features)}\n")
 
 

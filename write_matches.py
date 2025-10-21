@@ -8,6 +8,14 @@ print("Getting logged into lilamorph wikibase...")
 lilamorph = WikibaseIntegrator(login=wbi_login.Login(user=config_private.wbuser, password=config_private.wbpwd))
 print("Login successful.")
 
+with open('data/token-form-links-2b.csv') as file:
+    rows = csv.DictReader(file, delimiter=",")
+    done_links = {}
+    for row in rows:
+        if row['token'] not in done_links:
+            done_links[row['token']] = [row['linked_form']]
+        else:
+            done_links[row['token']].append(row['linked_form'])
 
 with open('data/matching_tokens_lexemedict_v2_short.csv') as file:
     rows = csv.DictReader(file, delimiter=",")
@@ -17,6 +25,10 @@ with open('data/matching_tokens_lexemedict_v2_short.csv') as file:
         if count < 60339:
             continue
         print(f"\nNow processing row [{count}]: {row}")
+        if row['token_qid'] in done_links:
+            if row['matching_form'] in done_links[row['token_qid']]:
+                print(f"Link is alreday there, no need to write.")
+                continue
         entity = lilamorph.item.get(entity_id=row['token_qid'])
         entity.claims.add(datatypes.Form(prop_nr="P21", value=row['matching_form']))
         entity.write()
