@@ -37,12 +37,14 @@ lemmadict = {}
 matchcount = 0
 with open("data/ITTB_verb_tokendata_for_upload.csv") as file:
     tokenrows = csv.DictReader(file, delimiter="\t")
+    tokenrowcount = 0
     for row in tokenrows:
+        tokenrowcount += 1
         match_for_token = False
         lila_lemmas = row['lila_lemmas'].split("|") # matching lila lemma(s), according to token annotation
         for lila_lem in lila_lemmas:
             lila_lemma = lila_lem.replace("lemma/","")
-            print(f"\nNow processing lemma ID: {lila_lemma}...")
+            print(f"\n[{tokenrowcount}] Now processing lemma ID: {lila_lemma}...")
             if lila_lemma not in lemmadict:
                 print(f"Retrieving form data for LiLa Lemma '{lila_lemma}' from Wikibase...")
                 lemmadict[lila_lemma] = get_wikibase_forms(lila_lemma)

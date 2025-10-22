@@ -1,4 +1,4 @@
 
-a3338	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'
-c4706	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'
-p0736	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'
+a3338	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'   https://lilamorph.wikibase.cloud/entity/L26632
+c4706	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'   https://lilamorph.wikibase.cloud/entity/L26633
+p0736	1812	'The entity is too big. The maximum allowed entity size is 2 MB.'   https://lilamorph.wikibase.cloud/entity/L26634
