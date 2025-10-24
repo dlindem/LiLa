@@ -1,0 +1,30 @@
+== ITTB token ''hasLemma'' links to deprecate ==
+This query lists those token-to-lemma links that are candidates to be deprecated, according to the linked form, which corresponds to another lemma.
+<sparql tryit="1">
+PREFIX lmwb: <https://lilamorph.wikibase.cloud/entity/>
+PREFIX lmdp: <https://lilamorph.wikibase.cloud/prop/direct/>
+
+select distinct ?token (iri(concat("http://lila-erc.eu/data/corpora/ITTB/id/token/",?token_id)) as ?token_link) ?token_label
+ ?linked_form ?linked_form_rep ?linked_formcell
+ (group_concat(distinct ?udp_label) as ?token_udp_feat)
+ ?linked_lexeme_CORRECT
+ (iri(concat(str(lmwb:),?tokenlinked_lexeme_id)) as  ?tokenlinked_lexeme_DEPRECATE)
+ (group_concat(distinct str(?tokenlinked_lex_lem)) as ?tokenlinked_lexeme_lemmas)
+
+where {
+  ?token lmdp:P14 lmwb:Q13; # in collection ITTB
+         lmdp:P16 ?tokenlinked_lila_lem;
+         lmdp:P17 ?token_id;
+         lmdp:P18 [lmdp:P7 ?udp_label];
+         lmdp:P21 ?linked_form;
+         rdfs:label ?token_label. filter(lang(?token_label)="la")
+  ?linked_lexeme_CORRECT ontolex:lexicalForm ?linked_form.
+  ?linked_form lmdp:P13 ?linked_formcell; ontolex:representation ?linked_form_rep.
+  ?tokenlinked_lexeme lmdp:P14 lmwb:Q14; lmdp:P1 ?tokenlinked_lila_lem;
+                           wikibase:lemma  ?tokenlinked_lex_lem.
+  bind(strafter(str (?tokenlinked_lexeme), str(lmwb:)) as ?tokenlinked_lexeme_id)
+  filter (regex(str(?linked_form),concat(?tokenlinked_lexeme_id,"-F")) = False) # lila lemma and wikibase lexeme do not correspond to the one the linked form belongs to
+
+} group by ?token ?token_id ?token_label ?linked_form ?linked_form_rep ?linked_formcell ?token_udp_feat ?linked_lexeme_CORRECT
+ ?tokenlinked_lexeme_id ?tokenlinked_lexeme_lemmas
+</sparql>
