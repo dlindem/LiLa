@@ -1,7 +1,7 @@
 import csv, sys, time, re, json, requests
 import config_private # bot user and pwd from hidden file
 
-import mwclient # mediawiki api client (will be used for itemdata > 1MB
+# import mwclient # mediawiki api client (will be used for itemdata > 1MB
 # lilamorph_api = mwclient.Site('lilamorph.wikibase.cloud')
 # login = lilamorph_api.login(username=config_private.wbuser, password=config_private.wbpwd)
 # csrfquery = lilamorph_api.api('query', meta='tokens')
