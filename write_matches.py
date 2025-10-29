@@ -3,7 +3,8 @@ import config_private
 from wikibaseintegrator import WikibaseIntegrator, wbi_login, datatypes
 from wikibaseintegrator.wbi_config import config
 from wikibaseintegrator.wbi_enums import ActionIfExists
-from wikibaseintegrator.models import Qualifiers
+from wikibaseintegrator.models import Qualifiers, References, Reference
+
 config['MEDIAWIKI_API_URL'] = "https://lilamorph.wikibase.cloud/w/api.php"
 config['USER_AGENT'] = "upload_prinparlat_lexemes.py"
 print("Getting logged into lilamorph wikibase...")
@@ -42,12 +43,18 @@ with open('data/matching_tokens_lexemedict_v3.csv') as file:
 
         qualifiers = Qualifiers()
         qualifiers.add(datatypes.Item(prop_nr="P14", value="Q15"))
-        entity.claims.add(datatypes.Form(prop_nr="P21", value=matching_form, qualifiers=qualifiers), action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
+        references = References()
+        reference = Reference()
+        reference.add(datatypes.URL(prop_nr="P23",
+                                    value="https://github.com/dlindem/LiLa/blob/ef93a4d43e69d7d8acb11ef79b76ce00ad8c9001/match_token_form.py"))
+        references.add(reference)
+        entity.claims.add(
+            datatypes.Form(prop_nr="P21", value=matching_form, qualifiers=qualifiers, references=references),
+            action_if_exists=ActionIfExists.APPEND_OR_REPLACE)
         entity.write()
 
         print(f"Successfully written claim to https://lilamorph.wikibase.cloud/entity/{entity.id}")
-        time.sleep(1)
+        time.sleep(.34)
 
         with open('data/token_form_links_v3.csv', 'a') as outfile:
             outfile.write(f"{row['token_qid']}\t{matching_form}\n")
-
