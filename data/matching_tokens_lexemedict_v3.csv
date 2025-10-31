@@ -62097,8 +62097,8 @@ ITTB_token,token_label,token_qid,matching_form,lila_lemma_id,token_feat
 005.SCG*LB4.CP-5++7.N.-2.10-3.14-3W26,praeterita,Q57223,https://lilamorph.wikibase.cloud/entity/L32584-F192,lemma/119293,Aspect#Perf|Case#Acc|Degree#Pos|Gender#Neut|Number#Plur|Tense#Past|VerbForm#Part|Voice#Pass
 005.SCG*LB4.CP-5++7.N.-2.5-4.8-2W11,disponat,Q38012,https://lilamorph.wikibase.cloud/entity/L29191-F10,lemma/99748,Aspect#Imp|Mood#Sub|Number#Sing|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-5++7.N.-2.5-4.8-2W5,disponentis,Q32201,https://lilamorph.wikibase.cloud/entity/L29191-F23,lemma/99748,Aspect#Imp|Case#Gen|Degree#Pos|Gender#Masc|Number#Sing|Tense#Pres|VerbForm#Part|Voice#Act
-005.SCG*LB4.CP-5++7.N.-2.8-3.10-2W12,adulto,Q1237,https://lilamorph.wikibase.cloud/entity/L26770-F216,lemma/87336,Aspect#Perf|Case#Dat|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
-005.SCG*LB4.CP-5++7.N.-2.8-3.10-2W12,adulto,Q1237,https://lilamorph.wikibase.cloud/entity/L26882-F468,lemma/87605,Aspect#Perf|Case#Dat|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
+005.SCG*LB4.CP-5++7.N.-2.8-3.10-2W12,adulto,Q1578,https://lilamorph.wikibase.cloud/entity/L26770-F216,lemma/87336,Aspect#Perf|Case#Dat|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
+005.SCG*LB4.CP-5++7.N.-2.8-3.10-2W12,adulto,Q1578,https://lilamorph.wikibase.cloud/entity/L26882-F468,lemma/87605,Aspect#Perf|Case#Dat|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
 005.SCG*LB4.CP-5++7.N.-2.8-3.10-2W5,tradit,Q20138,https://lilamorph.wikibase.cloud/entity/L34335-F10,lemma/128519,Aspect#Imp|Mood#Ind|Number#Sing|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-5++7.N.-3.1-1.5-3W15,dicebant,Q13205,https://lilamorph.wikibase.cloud/entity/L29049-F173,lemma/99302,Aspect#Imp|Mood#Ind|Number#Plur|Person#3|Tense#Imp|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-5++7.N.-3.1-1.5-3W16,esse,Q25227,https://lilamorph.wikibase.cloud/entity/L33992-F1,lemma/126689,Tense#Pres|VerbForm#Inf|Voice#Act
@@ -65139,8 +65139,8 @@ ITTB_token,token_label,token_qid,matching_form,lila_lemma_id,token_feat
 005.SCG*LB4.CP-8++1.N.12.38-4.43-2W4,impediet,Q32828,https://lilamorph.wikibase.cloud/entity/L30378-F325,lemma/106495,Aspect#Imp|Mood#Ind|Number#Sing|Person#3|Tense#Fut|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-8++1.N.12.38-4.43-2W5,resurgentis,Q25048,https://lilamorph.wikibase.cloud/entity/L33323-F25,lemma/122761,Aspect#Imp|Case#Gen|Degree#Pos|Gender#Neut|Number#Sing|Tense#Pres|VerbForm#Part|Voice#Act
 005.SCG*LB4.CP-8++1.N.12.43-3.44-4W4,est,Q50066,https://lilamorph.wikibase.cloud/entity/L33992-F5,lemma/126689,Mood#Ind|Number#Sing|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
-005.SCG*LB4.CP-8++1.N.12.43-3.44-4W9,adultus,Q1238,https://lilamorph.wikibase.cloud/entity/L26770-F204,lemma/87336,Aspect#Perf|Case#Nom|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
-005.SCG*LB4.CP-8++1.N.12.43-3.44-4W9,adultus,Q1238,https://lilamorph.wikibase.cloud/entity/L26882-F456,lemma/87605,Aspect#Perf|Case#Nom|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
+005.SCG*LB4.CP-8++1.N.12.43-3.44-4W9,adultus,Q1577,https://lilamorph.wikibase.cloud/entity/L26770-F204,lemma/87336,Aspect#Perf|Case#Nom|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
+005.SCG*LB4.CP-8++1.N.12.43-3.44-4W9,adultus,Q1577,https://lilamorph.wikibase.cloud/entity/L26882-F456,lemma/87605,Aspect#Perf|Case#Nom|Degree#Pos|Gender#Masc|Number#Sing|Tense#Past|VerbForm#Part|Voice#Pass
 005.SCG*LB4.CP-8++1.N.12.6-3.9-2W11,sunt,Q38205,https://lilamorph.wikibase.cloud/entity/L33992-F8,lemma/126689,Mood#Ind|Number#Plur|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-8++1.N.12.6-3.9-2W7,vivit,Q56980,https://lilamorph.wikibase.cloud/entity/L34608-F16,lemma/130476,Aspect#Imp|Mood#Ind|Number#Sing|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
 005.SCG*LB4.CP-8++1.N.12.9-3.10-4W5,fluunt,Q44218,https://lilamorph.wikibase.cloud/entity/L30035-F8,lemma/103519,Aspect#Imp|Mood#Ind|Number#Plur|Person#3|Tense#Pres|VerbForm#Fin|Voice#Act
