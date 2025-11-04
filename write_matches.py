@@ -22,8 +22,8 @@ with open('data/token_form_links_v3.csv') as file:
 print(f"Found {len(done_links)} tokens with already written links.")
 
 mapping = ""
-with open('data/matching_tokens_lexemedict_v3.csv') as file:
-    rows = csv.DictReader(file, delimiter=",")
+with open('data/matching_tokens_lexemedict_variants_v3.csv') as file:
+    rows = csv.DictReader(file, delimiter="\t")
     count = 0
     loaded_token = None
     for row in rows:
@@ -46,7 +46,7 @@ with open('data/matching_tokens_lexemedict_v3.csv') as file:
         references = References()
         reference = Reference()
         reference.add(datatypes.URL(prop_nr="P23",
-                                    value="https://github.com/dlindem/LiLa/blob/ef93a4d43e69d7d8acb11ef79b76ce00ad8c9001/match_token_form.py"))
+                                    value="https://github.com/dlindem/LiLa/blob/f767253ef52988176011fc6d5ad84651da38243f/match_token_lemmavariant_form.py"))
         references.add(reference)
         entity.claims.add(
             datatypes.Form(prop_nr="P21", value=matching_form, qualifiers=qualifiers, references=references),
