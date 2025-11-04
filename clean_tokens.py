@@ -25,23 +25,22 @@ while remaining_statements > 0:
         if guid in done_tokens:
             print("Done before (no time for sparql to update...)")
             continue
-        done = False
-        while not done:
-            try:
-                results = lilamorph_api.post('wbremoveclaims', claim=guid, token=lilamorph_api_token)
-                if results['success'] == 1:
-                    print(f'Wb remove claim for {binding["token"]["value"]} success. {remaining_statements - count} left in this batch.')
-                    done = True
-                    done_tokens.append(guid)
-                    time.sleep(.34)
-            except Exception as ex:
-                    print(str(ex))
+
+        try:
+            results = lilamorph_api.post('wbremoveclaims', claim=guid, token=lilamorph_api_token)
+            if results['success'] == 1:
+                print(f'Wb remove claim for {binding["token"]["value"]} success. {remaining_statements - count} left in this batch.')
+                done_tokens.append(guid)
+        except Exception as ex:
+                print(str(ex))
+        time.sleep(.34)
+
     print("Ended batch, sleep and get more...")
     sec = 120
     while sec > 0:
-        print(f"{sec} ", end="")
-        sec = sec - 1
-        time.sleep(1)
+        print(f"{sec} sec left")
+        sec = sec - 10
+        time.sleep(10)
     print("\nSPARQL by now should have updated.")
 
 print("Finished.")
