@@ -31,24 +31,26 @@ In the following, we list links to SPARQL queries in the instance's query servic
 
 ## Python scripts in this repository
 
-### produce_prinparlat_lexemes.py
+* [produce_prinparlat_lexemes.py](produce_prinparlat_lexemes.py)
+   * Produces and uploads the Latin lexemes dictionary, version 3, including  forms conflation rules.
 
-Produces and uploads the Latin lexemes dictionary, version 3, including forms conflation rules.
+* [upload_ittb_token.py](upload_ittb_token.py)
+   * Uploads token data.
 
-### upload_ittb_token.py
+* [match_token_form.py](match_token_form.py)
+   * Matches tokens to lexeme forms.
 
-Uploads token data.
+* [match_token_lemmavariant_form.py](match_token_lemmavariant_form.py)
+   * Matches tokens to variants of lexemes.
 
-### match_token_form.py
+* [write_matches.py](write_matches.py)
+   * Writes token-to-form links to Wikibase token items.
 
-Matches tokens to lexeme forms.
+## Data sources and database queries
 
-### match_token_lemmavariant_form.py
-
-Matches tokens to variants of lexemes.
-
-### write_matches.py
-
-Writes token-to-form links to Wikibase token items.
+* [data/](data/) directory
+  * "enhanced_forms" PrinParLat flexemes and lexemes collections source data
+* [sparql/](sparql/) directory
+  * LiLa database query for ITTB token data
 
 
