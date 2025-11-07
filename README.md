@@ -1,4 +1,6 @@
-# Title
+# Wikidata and LiLa for Latin: Enabling Interoperability and Access to Inflected Forms and Corpus Attestations
+
+DOI: [10.5281/zenodo.17553591](https://doi.org/10.5281/zenodo.17553591)
 
 We are using [a Wikibase instance](https://lilamorph.wikibase.cloud) for publishing a Latin verb forms dataset, with the final goal of enriching Wikidata Latin lexemes, and for corpus annotation (matching tokens in morphologically annotated corpora to Wikibase forms).
 
